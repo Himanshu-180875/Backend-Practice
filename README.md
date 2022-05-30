@@ -5,9 +5,9 @@ We require below services/software on system for project setup.
 
 Node 16.15.0\
 GIT\
-Xampp\
+Xampp
 
-Setup Guide (Command line instructions)
+Setup Guide (Command line instructions)\
 ```git clone <Project_Repo_URL> project cd project```
 
 make a file ".env"
@@ -27,11 +27,11 @@ npm install
 ```
 Open Mysql
 
-Create Database - With the database name specified above
+Create Database - With the database name specified above\
 ```mysql> CREATE DATABASE MYSQL_DB;```
-Import tables -
-```$ mysql -u <username> -p<PlainPassword> test < 'path_to_posts.sql'```
-```$ mysql -u <username> -p<PlainPassword> test < 'path_to_user.sql'```
+Import tables -\
+```$ mysql -u <username> -p<PlainPassword> test < 'path_to_posts.sql'```\
+```$ mysql -u <username> -p<PlainPassword> test < 'path_to_user.sql'```\
 and then run npm run start
 
 then your server will start at port you specified and you can see it by typing http://localhost:your_app_port
