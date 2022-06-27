@@ -5,8 +5,8 @@ services:
     command: --default-authentication-plugin=mysql_native_password
     # env_file: ./.env
     environment:
-      - MYSQL_DATABASE=test
-      - MYSQL_ROOT_PASSWORD=root
+      - MYSQL_DATABASE='your db name'
+      - MYSQL_ROOT_PASSWORD='your db password'
       
     ports:
       - '3306:3306'
@@ -23,9 +23,9 @@ services:
       - '5000:5000'
     environment:
       - DB_HOST=mysqldb
-      - DB_USER=root
-      - DB_PASSWORD=root
-      - DB_NAME=test
+      - DB_USER='your db user'
+      - DB_PASSWORD='your db password'
+      - DB_NAME='your db name'
       - DB_PORT=3306
     networks:
       - myPersonalNet
