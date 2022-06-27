@@ -1,0 +1,60 @@
+version: '3.8'
+services:
+  mysqldb:
+    image: mysql
+    command: --default-authentication-plugin=mysql_native_password
+    # env_file: ./.env
+    environment:
+      - MYSQL_DATABASE=test
+      - MYSQL_ROOT_PASSWORD=root
+      
+    ports:
+      - '3306:3306'
+    volumes:
+      - db:/var/lib/mysql
+    networks:
+      - myPersonalNet
+  app:
+    build: 
+      context: .
+    restart: unless-stopped
+    # env_file: ./.env
+    ports:
+      - '5000:5000'
+    environment:
+      - DB_HOST='your host name'
+      - DB_USER='your user name'
+      - DB_PASSWORD= 'your password'
+      - DB_NAME='your db name'
+      - DB_PORT=3306
+    networks:
+      - myPersonalNet
+    depends_on:
+      - mysqldb
+  phpmyadmin:
+    image: phpmyadmin/phpmyadmin:latest
+    environment:
+      PMA_HOST: mysqldb
+    ports:
+      - "8080:80"
+    networks:
+      - myPersonalNet
+  apacheserver:
+    build: 
+      context: ./apache-config
+      # dockerfile: ./config/Dockerfile
+    ports:
+      - "80:80"
+    volumes:
+      - ./apache/apacheconf:/usr/local/apache2/conf/sites
+    networks:
+      - myPersonalNet
+networks:
+  myPersonalNet:
+    driver: bridge
+    
+volumes: 
+
+  db:
+    name: app-data
+   

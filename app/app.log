@@ -1,0 +1,1328 @@
+[2022-06-16T23:45:58.353] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-16T23:47:48.035] [DEBUG] default - Some debug messages
+[2022-06-16T23:47:48.045] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-16T23:47:53.593] [DEBUG] default - Some debug messages
+[2022-06-16T23:47:53.603] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-16T23:48:16.815] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-16T23:49:44.344] [DEBUG] default - APP LISTENING ON http://localhost:5000
+[2022-06-16T23:49:49.591] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-17T00:00:29.661] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-17T00:07:27.108] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-17T00:07:35.609] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-17T10:02:19.020] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-17T10:04:20.966] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-17T10:04:20.975] [ERROR] default - Error: connect ECONNREFUSED 127.0.0.1:3306
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1187:16)
+    --------------------
+    at Protocol._enqueue (C:\Practice\Backend-Practice-2\app\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at Protocol.handshake (C:\Practice\Backend-Practice-2\app\node_modules\mysql\lib\protocol\Protocol.js:51:23)
+    at Connection.connect (C:\Practice\Backend-Practice-2\app\node_modules\mysql\lib\Connection.js:116:18)
+    at Object.<anonymous> (C:\Practice\Backend-Practice-2\app\config\database.js:11:4)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 3306,
+  fatal: true
+}
+[2022-06-17T10:05:31.981] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-17T10:05:31.992] [ERROR] default - Error: connect ECONNREFUSED 127.0.0.1:3306
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1187:16)
+    --------------------
+    at Protocol._enqueue (C:\Practice\Backend-Practice-2\app\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at Protocol.handshake (C:\Practice\Backend-Practice-2\app\node_modules\mysql\lib\protocol\Protocol.js:51:23)
+    at Connection.connect (C:\Practice\Backend-Practice-2\app\node_modules\mysql\lib\Connection.js:116:18)
+    at Object.<anonymous> (C:\Practice\Backend-Practice-2\app\config\database.js:11:4)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 3306,
+  fatal: true
+}
+[2022-06-17T10:06:01.592] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-17T10:06:01.601] [ERROR] default - Error: connect ECONNREFUSED 127.0.0.1:3306
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1187:16)
+    --------------------
+    at Protocol._enqueue (C:\Practice\Backend-Practice-2\app\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at Protocol.handshake (C:\Practice\Backend-Practice-2\app\node_modules\mysql\lib\protocol\Protocol.js:51:23)
+    at Connection.connect (C:\Practice\Backend-Practice-2\app\node_modules\mysql\lib\Connection.js:116:18)
+    at Object.<anonymous> (C:\Practice\Backend-Practice-2\app\config\database.js:11:4)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 3306,
+  fatal: true
+}
+[2022-06-17T10:10:45.002] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-17T10:10:45.017] [INFO] default - MYSQL connected..
+[2022-06-17T10:11:07.168] [INFO] default - NODE_ENV=session
+[2022-06-17T10:11:07.176] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-17T10:11:07.186] [INFO] default - MYSQL connected..
+[2022-06-17T10:18:30.510] [INFO] default - NODE_ENV=session
+[2022-06-17T10:18:30.516] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-17T10:18:30.525] [INFO] default - MYSQL connected..
+[2022-06-17T10:18:43.997] [INFO] default - NODE_ENV=session
+[2022-06-17T10:18:44.005] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-17T10:18:44.014] [INFO] default - MYSQL connected..
+[2022-06-17T10:18:48.682] [INFO] default - POST /users/login
+[2022-06-17T10:19:05.770] [INFO] default - NODE_ENV=session
+[2022-06-17T10:19:05.779] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-17T10:19:05.787] [INFO] default - MYSQL connected..
+[2022-06-17T10:19:08.625] [INFO] default - POST /users/login
+[2022-06-17T10:19:48.206] [INFO] default - NODE_ENV=session
+[2022-06-17T10:19:48.214] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-17T10:19:48.223] [INFO] default - MYSQL connected..
+[2022-06-17T10:20:00.181] [INFO] default - ::1 - - "POST /users/login HTTP/1.1" 200 230 "" "PostmanRuntime/7.29.0"
+[2022-06-17T10:20:29.349] [ERROR] default - ::1 - - "GET /posts/all HTTP/1.1" 403 58 "" "PostmanRuntime/7.29.0"
+[2022-06-17T10:20:37.419] [INFO] default - ::1 - - "POST /users/login HTTP/1.1" 200 230 "" "PostmanRuntime/7.29.0"
+[2022-06-17T10:20:40.067] [ERROR] default - ::1 - - "GET /posts/all HTTP/1.1" 500 1353 "" "PostmanRuntime/7.29.0"
+[2022-06-17T10:21:02.001] [INFO] default - NODE_ENV=session
+[2022-06-17T10:21:02.010] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-17T10:21:02.018] [INFO] default - MYSQL connected..
+[2022-06-17T10:21:09.620] [INFO] default - ::1 - - "POST /users/login HTTP/1.1" 200 230 "" "PostmanRuntime/7.29.0"
+[2022-06-17T10:21:12.668] [INFO] default - ::1 - - "GET /posts/all HTTP/1.1" 200 3393 "" "PostmanRuntime/7.29.0"
+[2022-06-17T10:23:21.354] [INFO] default - NODE_ENV=jwt
+[2022-06-17T10:23:21.358] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-17T10:23:21.365] [INFO] default - MYSQL connected..
+[2022-06-17T10:23:33.711] [INFO] default - ::1 - - "POST /users/login HTTP/1.1" 200 576 "" "PostmanRuntime/7.29.0"
+[2022-06-17T10:23:50.255] [INFO] default - ::1 - - "GET /posts/all HTTP/1.1" 200 3393 "" "PostmanRuntime/7.29.0"
+[2022-06-17T10:24:05.096] [ERROR] default - ::1 - - "POST /users/login HTTP/1.1" 400 44 "" "PostmanRuntime/7.29.0"
+[2022-06-17T10:24:15.253] [INFO] default - ::1 - - "POST /users/login HTTP/1.1" 200 576 "" "PostmanRuntime/7.29.0"
+[2022-06-17T12:18:18.794] [INFO] default - NODE_ENV=jwt
+[2022-06-17T12:18:18.803] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-17T12:18:18.815] [INFO] default - MYSQL connected..
+[2022-06-17T12:21:52.694] [INFO] default - NODE_ENV=jwt
+[2022-06-17T12:21:52.700] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-17T12:21:52.711] [INFO] default - MYSQL connected..
+[2022-06-17T16:43:29.109] [INFO] default - NODE_ENV=session
+[2022-06-17T16:43:29.122] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-17T16:43:29.130] [ERROR] default - Error: connect ECONNREFUSED 127.0.0.1:3306
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1187:16)
+    --------------------
+    at Protocol._enqueue (C:\Practice\Backend-Practice-2\app\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at Protocol.handshake (C:\Practice\Backend-Practice-2\app\node_modules\mysql\lib\protocol\Protocol.js:51:23)
+    at Connection.connect (C:\Practice\Backend-Practice-2\app\node_modules\mysql\lib\Connection.js:116:18)
+    at Object.<anonymous> (C:\Practice\Backend-Practice-2\app\config\database.js:11:4)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 3306,
+  fatal: true
+}
+[2022-06-17T17:19:26.571] [INFO] default - NODE_ENV=session
+[2022-06-17T17:19:26.578] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-17T17:19:26.584] [ERROR] default - Error: connect ECONNREFUSED 127.0.0.1:3306
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1187:16)
+    --------------------
+    at Protocol._enqueue (C:\Practice\Backend-Practice-2\app\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at Protocol.handshake (C:\Practice\Backend-Practice-2\app\node_modules\mysql\lib\protocol\Protocol.js:51:23)
+    at Connection.connect (C:\Practice\Backend-Practice-2\app\node_modules\mysql\lib\Connection.js:116:18)
+    at Object.<anonymous> (C:\Practice\Backend-Practice-2\app\config\database.js:11:4)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 3306,
+  fatal: true
+}
+[2022-06-17T18:39:30.570] [INFO] default - NODE_ENV=session
+[2022-06-17T18:39:30.578] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-17T18:39:30.585] [ERROR] default - Error: connect ECONNREFUSED 127.0.0.1:3306
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1187:16)
+    --------------------
+    at Protocol._enqueue (C:\Practice\Backend-Practice-2\app\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at Protocol.handshake (C:\Practice\Backend-Practice-2\app\node_modules\mysql\lib\protocol\Protocol.js:51:23)
+    at Connection.connect (C:\Practice\Backend-Practice-2\app\node_modules\mysql\lib\Connection.js:116:18)
+    at Object.<anonymous> (C:\Practice\Backend-Practice-2\app\config\database.js:11:4)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 3306,
+  fatal: true
+}
+[2022-06-20T15:58:12.008] [INFO] default - NODE_ENV=session
+[2022-06-20T15:58:12.015] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-20T15:58:12.032] [INFO] default - MYSQL connected..
+[2022-06-20T15:58:31.425] [INFO] default - NODE_ENV=session
+[2022-06-20T15:58:31.433] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-20T15:58:31.442] [INFO] default - MYSQL connected..
+[2022-06-20T15:59:53.020] [INFO] default - NODE_ENV=session
+[2022-06-20T15:59:53.027] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-20T15:59:53.037] [INFO] default - MYSQL connected..
+[2022-06-20T16:00:13.242] [INFO] default - ::1 - - "POST /users/login HTTP/1.1" 200 230 "" "PostmanRuntime/7.29.0"
+[2022-06-20T16:18:06.083] [INFO] default - ::1 - - "GET /api HTTP/1.1" 200 35 "" "PostmanRuntime/7.29.0"
+[2022-06-20T16:18:10.123] [INFO] default - ::1 - - "POST /users/login HTTP/1.1" 200 230 "" "PostmanRuntime/7.29.0"
+[2022-06-20T16:18:58.732] [INFO] default - ::1 - - "POST /users/login HTTP/1.1" 200 230 "" "PostmanRuntime/7.29.0"
+[2022-06-20T16:19:07.193] [INFO] default - ::1 - - "GET /posts/all HTTP/1.1" 200 3393 "" "PostmanRuntime/7.29.0"
+[2022-06-20T18:09:24.911] [INFO] default - NODE_ENV=session
+[2022-06-20T18:09:24.917] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-20T18:09:24.928] [INFO] default - MYSQL connected..
+[2022-06-21T12:10:40.870] [INFO] default - NODE_ENV=session
+[2022-06-21T12:10:40.880] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T12:10:40.887] [ERROR] default - Error: connect ECONNREFUSED 127.0.0.1:3306
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1187:16)
+    --------------------
+    at Protocol._enqueue (C:\Practice\Backend-Practice-2\app\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at Protocol.handshake (C:\Practice\Backend-Practice-2\app\node_modules\mysql\lib\protocol\Protocol.js:51:23)
+    at Connection.connect (C:\Practice\Backend-Practice-2\app\node_modules\mysql\lib\Connection.js:116:18)
+    at Object.<anonymous> (C:\Practice\Backend-Practice-2\app\config\database.js:11:4)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 3306,
+  fatal: true
+}
+[2022-06-21T12:11:00.556] [INFO] default - NODE_ENV=session
+[2022-06-21T12:11:00.564] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T12:11:00.579] [INFO] default - MYSQL connected..
+[2022-06-21T12:11:19.897] [INFO] default - ::1 - - "POST /users/login HTTP/1.1" 200 230 "" "PostmanRuntime/7.29.0"
+[2022-06-21T12:13:54.778] [ERROR] default - ::1 - - "GET /posts/all HTTP/1.1" 403 58 "" "PostmanRuntime/7.29.0"
+[2022-06-21T14:41:47.687] [ERROR] default - ::1 - - "GET /posts/all HTTP/1.1" 403 58 "" "PostmanRuntime/7.29.0"
+[2022-06-21T14:41:50.679] [INFO] default - ::1 - - "GET /api HTTP/1.1" 200 35 "" "PostmanRuntime/7.29.0"
+[2022-06-21T14:54:52.114] [INFO] default - ::1 - - "GET /api HTTP/1.1" 200 35 "" "PostmanRuntime/7.29.0"
+[2022-06-21T15:02:23.893] [INFO] default - NODE_ENV=session
+[2022-06-21T15:02:23.901] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T15:02:23.911] [INFO] default - MYSQL connected..
+[2022-06-21T15:02:39.180] [INFO] default - NODE_ENV=session
+[2022-06-21T15:02:39.187] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T15:02:39.195] [INFO] default - MYSQL connected..
+[2022-06-21T15:02:41.316] [INFO] default - NODE_ENV=session
+[2022-06-21T15:02:41.322] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T15:02:41.334] [INFO] default - MYSQL connected..
+[2022-06-21T15:03:24.080] [INFO] default - NODE_ENV=session
+[2022-06-21T15:03:24.087] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T15:03:24.098] [INFO] default - MYSQL connected..
+[2022-06-21T15:03:54.105] [INFO] default - NODE_ENV=session
+[2022-06-21T15:03:54.120] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T15:03:54.140] [INFO] default - MYSQL connected..
+[2022-06-21T15:21:44.983] [INFO] default - ::1 - - "GET /api HTTP/1.1" 200 35 "" "PostmanRuntime/7.29.0"
+[2022-06-21T15:24:03.399] [INFO] default - undefined - - "GET /api HTTP/1.1" 200 - "" "PostmanRuntime/7.29.0"
+[2022-06-21T15:24:03.400] [INFO] default - undefined - - "GET /api HTTP/1.1" 200 - "" "PostmanRuntime/7.29.0"
+[2022-06-21T15:24:04.047] [INFO] default - NODE_ENV=session
+[2022-06-21T15:24:04.054] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T15:24:04.065] [INFO] default - MYSQL connected..
+[2022-06-21T15:24:06.858] [INFO] default - ::1 - - "GET /api HTTP/1.1" 200 35 "" "PostmanRuntime/7.29.0"
+[2022-06-21T15:25:12.293] [INFO] default - NODE_ENV=session
+[2022-06-21T15:25:12.300] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T15:25:12.312] [INFO] default - MYSQL connected..
+[2022-06-21T15:25:26.872] [INFO] default - NODE_ENV=session
+[2022-06-21T15:25:26.880] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T15:25:26.891] [INFO] default - MYSQL connected..
+[2022-06-21T15:25:30.751] [INFO] default - ::1 - - "GET /api HTTP/1.1" 200 35 "" "PostmanRuntime/7.29.0"
+[2022-06-21T15:26:01.896] [INFO] default - ::1 - - "POST /users/login HTTP/1.1" 200 230 "" "PostmanRuntime/7.29.0"
+[2022-06-21T15:26:32.997] [INFO] default - NODE_ENV=session
+[2022-06-21T15:26:33.004] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T15:26:33.015] [INFO] default - MYSQL connected..
+[2022-06-21T15:26:36.646] [INFO] default - ::1 - - "POST /users/login HTTP/1.1" 200 230 "" "PostmanRuntime/7.29.0"
+[2022-06-21T15:26:46.814] [INFO] default - ::1 - - "POST /users/login HTTP/1.1" 200 230 "" "PostmanRuntime/7.29.0"
+[2022-06-21T15:27:30.358] [INFO] default - NODE_ENV=session
+[2022-06-21T15:27:30.368] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T15:27:30.384] [INFO] default - MYSQL connected..
+[2022-06-21T15:27:44.088] [INFO] default - ::1 - - "POST /users/login HTTP/1.1" 200 230 "" "PostmanRuntime/7.29.0"
+[2022-06-21T15:32:05.085] [INFO] default - NODE_ENV=session
+[2022-06-21T15:32:05.094] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T15:32:05.105] [INFO] default - MYSQL connected..
+[2022-06-21T15:32:09.272] [INFO] default - ::1 - - "POST /users/login HTTP/1.1" 200 230 "" "PostmanRuntime/7.29.0"
+[2022-06-21T15:32:20.895] [INFO] default - NODE_ENV=session
+[2022-06-21T15:32:20.902] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T15:32:20.911] [INFO] default - MYSQL connected..
+[2022-06-21T15:32:25.265] [INFO] default - ::1 - - "POST /users/login HTTP/1.1" 200 230 "" "PostmanRuntime/7.29.0"
+[2022-06-21T15:33:02.144] [INFO] default - NODE_ENV=session
+[2022-06-21T15:33:02.152] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T15:33:02.161] [INFO] default - MYSQL connected..
+[2022-06-21T15:33:05.068] [INFO] default - ::1 - - "POST /users/login HTTP/1.1" 200 230 "" "PostmanRuntime/7.29.0"
+[2022-06-21T15:33:10.223] [INFO] default - ::1 - - "POST /users/login HTTP/1.1" 200 230 "" "PostmanRuntime/7.29.0"
+[2022-06-21T15:36:55.962] [INFO] default - ::1 - - "POST /users/login HTTP/1.1" 200 230 "" "PostmanRuntime/7.29.0"
+[2022-06-21T15:38:08.674] [INFO] default - NODE_ENV=session
+[2022-06-21T15:38:08.683] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T15:38:08.691] [INFO] default - MYSQL connected..
+[2022-06-21T15:38:42.834] [INFO] default - NODE_ENV=session
+[2022-06-21T15:38:42.841] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T15:38:42.849] [INFO] default - MYSQL connected..
+[2022-06-21T15:38:50.632] [INFO] default - NODE_ENV=session
+[2022-06-21T15:38:50.639] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T15:38:50.647] [INFO] default - MYSQL connected..
+[2022-06-21T15:38:57.171] [INFO] default - ::1 - - "POST /users/login HTTP/1.1" 200 230 "" "PostmanRuntime/7.29.0"
+[2022-06-21T15:39:05.565] [INFO] default - ::1 - - "POST /users/login HTTP/1.1" 200 230 "" "PostmanRuntime/7.29.0"
+[2022-06-21T15:39:21.747] [INFO] default - NODE_ENV=session
+[2022-06-21T15:39:21.761] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T15:39:21.778] [INFO] default - MYSQL connected..
+[2022-06-21T15:41:45.324] [INFO] default - NODE_ENV=session
+[2022-06-21T15:41:45.333] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T15:41:45.342] [INFO] default - MYSQL connected..
+[2022-06-21T15:56:37.696] [INFO] default - NODE_ENV=session
+[2022-06-21T15:56:37.705] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T15:56:37.717] [INFO] default - MYSQL connected..
+[2022-06-21T15:57:29.207] [INFO] default - NODE_ENV=session
+[2022-06-21T15:57:29.221] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T15:57:29.233] [INFO] default - MYSQL connected..
+[2022-06-21T15:57:55.640] [INFO] default - NODE_ENV=session
+[2022-06-21T15:57:55.648] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T15:57:55.657] [INFO] default - MYSQL connected..
+[2022-06-21T15:59:56.582] [INFO] default - NODE_ENV=session
+[2022-06-21T15:59:56.591] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T15:59:56.600] [INFO] default - MYSQL connected..
+[2022-06-21T16:00:00.095] [INFO] default - ::1 - - "POST /users/register HTTP/1.1" 201 29 "" "PostmanRuntime/7.29.0"
+[2022-06-21T16:00:22.461] [ERROR] default - ::1 - - "POST /users/login HTTP/1.1" 400 51 "" "PostmanRuntime/7.29.0"
+[2022-06-21T16:01:09.555] [INFO] default - NODE_ENV=session
+[2022-06-21T16:01:09.580] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T16:01:09.591] [INFO] default - MYSQL connected..
+[2022-06-21T16:01:15.051] [ERROR] default - ::1 - - "POST /users/login HTTP/1.1" 400 51 "" "PostmanRuntime/7.29.0"
+[2022-06-21T16:01:49.807] [INFO] default - NODE_ENV=session
+[2022-06-21T16:01:49.817] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T16:01:49.832] [INFO] default - MYSQL connected..
+[2022-06-21T16:01:53.431] [INFO] default - ::1 - - "POST /users/login HTTP/1.1" 200 230 "" "PostmanRuntime/7.29.0"
+[2022-06-21T16:02:56.327] [INFO] default - NODE_ENV=session
+[2022-06-21T16:02:56.338] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T16:02:56.350] [INFO] default - MYSQL connected..
+[2022-06-21T16:02:59.539] [INFO] default - ::1 - - "POST /users/login HTTP/1.1" 200 230 "" "PostmanRuntime/7.29.0"
+[2022-06-21T16:04:06.140] [INFO] default - NODE_ENV=session
+[2022-06-21T16:04:06.149] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T16:04:06.159] [INFO] default - MYSQL connected..
+[2022-06-21T16:04:23.387] [INFO] default - NODE_ENV=session
+[2022-06-21T16:04:23.405] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T16:04:23.428] [INFO] default - MYSQL connected..
+[2022-06-21T16:04:30.835] [ERROR] default - ::1 - - "POST /users/login HTTP/1.1" 400 51 "" "PostmanRuntime/7.29.0"
+[2022-06-21T16:06:38.949] [INFO] default - NODE_ENV=session
+[2022-06-21T16:06:38.959] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T16:06:38.973] [INFO] default - MYSQL connected..
+[2022-06-21T16:06:43.823] [ERROR] default - ::1 - - "POST /users/login HTTP/1.1" 400 51 "" "PostmanRuntime/7.29.0"
+[2022-06-21T16:07:13.838] [INFO] default - NODE_ENV=session
+[2022-06-21T16:07:13.845] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T16:07:13.857] [INFO] default - MYSQL connected..
+[2022-06-21T16:07:17.528] [ERROR] default - ::1 - - "POST /users/login HTTP/1.1" 400 51 "" "PostmanRuntime/7.29.0"
+[2022-06-21T16:08:39.774] [INFO] default - NODE_ENV=session
+[2022-06-21T16:08:39.785] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T16:08:39.800] [INFO] default - MYSQL connected..
+[2022-06-21T16:08:53.137] [INFO] default - NODE_ENV=session
+[2022-06-21T16:08:53.145] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T16:08:53.163] [INFO] default - MYSQL connected..
+[2022-06-21T16:08:57.235] [ERROR] default - ::1 - - "POST /users/login HTTP/1.1" 400 51 "" "PostmanRuntime/7.29.0"
+[2022-06-21T16:49:47.995] [INFO] default - NODE_ENV=session
+[2022-06-21T16:49:48.003] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T16:49:48.014] [INFO] default - MYSQL connected..
+[2022-06-21T16:49:53.593] [INFO] default - NODE_ENV=session
+[2022-06-21T16:49:53.599] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T16:49:53.611] [INFO] default - MYSQL connected..
+[2022-06-21T16:50:09.986] [ERROR] default - ::1 - - "POST /users/login HTTP/1.1" 400 51 "" "PostmanRuntime/7.29.0"
+[2022-06-21T16:50:57.226] [INFO] default - NODE_ENV=session
+[2022-06-21T16:50:57.232] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T16:50:57.242] [INFO] default - MYSQL connected..
+[2022-06-21T16:50:59.825] [ERROR] default - ::1 - - "POST /users/login HTTP/1.1" 400 51 "" "PostmanRuntime/7.29.0"
+[2022-06-21T16:52:50.500] [INFO] default - NODE_ENV=session
+[2022-06-21T16:52:50.507] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T16:52:50.517] [INFO] default - MYSQL connected..
+[2022-06-21T16:53:15.572] [INFO] default - NODE_ENV=session
+[2022-06-21T16:53:15.582] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T16:53:15.593] [INFO] default - MYSQL connected..
+[2022-06-21T16:53:27.454] [INFO] default - NODE_ENV=session
+[2022-06-21T16:53:27.462] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T16:53:27.470] [INFO] default - MYSQL connected..
+[2022-06-21T16:53:52.838] [INFO] default - NODE_ENV=session
+[2022-06-21T16:53:52.844] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T16:53:52.853] [INFO] default - MYSQL connected..
+[2022-06-21T16:54:38.724] [INFO] default - NODE_ENV=session
+[2022-06-21T16:54:38.732] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T16:54:38.741] [INFO] default - MYSQL connected..
+[2022-06-21T16:56:07.307] [INFO] default - NODE_ENV=session
+[2022-06-21T16:56:07.315] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T16:56:07.324] [INFO] default - MYSQL connected..
+[2022-06-21T16:56:12.937] [ERROR] default - ::1 - - "POST /users/login HTTP/1.1" 400 51 "" "PostmanRuntime/7.29.0"
+[2022-06-21T16:58:10.526] [INFO] default - NODE_ENV=session
+[2022-06-21T16:58:10.533] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T16:58:10.542] [INFO] default - MYSQL connected..
+[2022-06-21T16:58:16.314] [INFO] default - NODE_ENV=session
+[2022-06-21T16:58:16.323] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T16:58:16.337] [INFO] default - MYSQL connected..
+[2022-06-21T17:02:05.666] [INFO] default - NODE_ENV=session
+[2022-06-21T17:02:05.674] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T17:02:05.683] [INFO] default - MYSQL connected..
+[2022-06-21T17:02:17.906] [INFO] default - NODE_ENV=session
+[2022-06-21T17:02:17.917] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T17:02:17.931] [INFO] default - MYSQL connected..
+[2022-06-21T17:03:04.149] [INFO] default - NODE_ENV=session
+[2022-06-21T17:03:04.158] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T17:03:04.168] [INFO] default - MYSQL connected..
+[2022-06-21T17:03:08.814] [ERROR] default - ::1 - - "POST /users/login HTTP/1.1" 400 51 "" "PostmanRuntime/7.29.0"
+[2022-06-21T17:04:07.931] [INFO] default - NODE_ENV=session
+[2022-06-21T17:04:07.940] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T17:04:07.953] [INFO] default - MYSQL connected..
+[2022-06-21T17:04:11.065] [INFO] default - ::1 - - "POST /users/login HTTP/1.1" 200 230 "" "PostmanRuntime/7.29.0"
+[2022-06-21T17:07:29.914] [INFO] default - NODE_ENV=session
+[2022-06-21T17:07:29.922] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T17:07:29.932] [INFO] default - MYSQL connected..
+[2022-06-21T17:08:01.693] [INFO] default - NODE_ENV=session
+[2022-06-21T17:08:01.701] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T17:08:01.709] [INFO] default - MYSQL connected..
+[2022-06-21T17:09:34.023] [INFO] default - NODE_ENV=session
+[2022-06-21T17:09:34.030] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T17:09:34.039] [INFO] default - MYSQL connected..
+[2022-06-21T17:10:39.523] [INFO] default - NODE_ENV=session
+[2022-06-21T17:10:39.530] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T17:10:39.544] [INFO] default - MYSQL connected..
+[2022-06-21T17:11:19.952] [INFO] default - NODE_ENV=session
+[2022-06-21T17:11:19.959] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T17:11:19.968] [INFO] default - MYSQL connected..
+[2022-06-21T17:11:47.306] [INFO] default - NODE_ENV=session
+[2022-06-21T17:11:47.314] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T17:11:47.326] [INFO] default - MYSQL connected..
+[2022-06-21T17:12:20.185] [INFO] default - NODE_ENV=session
+[2022-06-21T17:12:20.195] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T17:12:20.207] [INFO] default - MYSQL connected..
+[2022-06-21T17:14:03.841] [INFO] default - NODE_ENV=session
+[2022-06-21T17:14:03.851] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T17:14:03.863] [INFO] default - MYSQL connected..
+[2022-06-21T17:15:15.666] [INFO] default - NODE_ENV=session
+[2022-06-21T17:15:15.673] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T17:15:15.684] [INFO] default - MYSQL connected..
+[2022-06-21T17:15:48.879] [INFO] default - NODE_ENV=session
+[2022-06-21T17:15:48.886] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T17:15:48.895] [INFO] default - MYSQL connected..
+[2022-06-21T17:17:47.267] [INFO] default - NODE_ENV=session
+[2022-06-21T17:17:47.275] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T17:17:47.285] [INFO] default - MYSQL connected..
+[2022-06-21T17:18:04.634] [INFO] default - NODE_ENV=session
+[2022-06-21T17:18:04.643] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T17:18:04.653] [INFO] default - MYSQL connected..
+[2022-06-21T17:18:10.182] [INFO] default - NODE_ENV=session
+[2022-06-21T17:18:10.190] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T17:18:10.199] [INFO] default - MYSQL connected..
+[2022-06-21T17:19:14.142] [INFO] default - NODE_ENV=session
+[2022-06-21T17:19:14.149] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T17:19:14.157] [INFO] default - MYSQL connected..
+[2022-06-21T17:19:24.802] [ERROR] default - ::1 - - "POST /users/login HTTP/1.1" 400 51 "" "PostmanRuntime/7.29.0"
+[2022-06-21T17:19:24.805] [ERROR] default - Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''himanshu10@gmail.com'' at line 1
+    at Query.Sequence._packetToError (C:\Practice\Backend-Practice-2\app\node_modules\mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (C:\Practice\Backend-Practice-2\app\node_modules\mysql\lib\protocol\sequences\Query.js:79:18)
+    at Protocol._parsePacket (C:\Practice\Backend-Practice-2\app\node_modules\mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (C:\Practice\Backend-Practice-2\app\node_modules\mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (C:\Practice\Backend-Practice-2\app\node_modules\mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (C:\Practice\Backend-Practice-2\app\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (C:\Practice\Backend-Practice-2\app\node_modules\mysql\lib\Connection.js:88:28)
+    at Socket.<anonymous> (C:\Practice\Backend-Practice-2\app\node_modules\mysql\lib\Connection.js:526:10)
+    at Socket.emit (node:events:527:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    --------------------
+    at Protocol._enqueue (C:\Practice\Backend-Practice-2\app\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at Connection.query (C:\Practice\Backend-Practice-2\app\node_modules\mysql\lib\Connection.js:198:25)
+    at savingLogs (C:\Practice\Backend-Practice-2\app\controllers\savingLogs.js:5:8)
+    at Query.<anonymous> (C:\Practice\Backend-Practice-2\app\controllers\auth.js:73:9)
+    at Query.<anonymous> (C:\Practice\Backend-Practice-2\app\node_modules\mysql\lib\Connection.js:526:10)
+    at Query._callback (C:\Practice\Backend-Practice-2\app\node_modules\mysql\lib\Connection.js:488:16)
+    at Query.Sequence.end (C:\Practice\Backend-Practice-2\app\node_modules\mysql\lib\protocol\sequences\Sequence.js:83:24)
+    at Query._handleFinalResultPacket (C:\Practice\Backend-Practice-2\app\node_modules\mysql\lib\protocol\sequences\Query.js:149:8)
+    at Query.EofPacket (C:\Practice\Backend-Practice-2\app\node_modules\mysql\lib\protocol\sequences\Query.js:133:8)
+    at Protocol._parsePacket (C:\Practice\Backend-Practice-2\app\node_modules\mysql\lib\protocol\Protocol.js:291:23) {
+  code: 'ER_PARSE_ERROR',
+  errno: 1064,
+  sqlMessage: "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''himanshu10@gmail.com'' at line 1",
+  sqlState: '42000',
+  index: 0,
+  sql: "Insert into logs set 'himanshu10@gmail.com'"
+}
+[2022-06-21T17:20:51.783] [INFO] default - NODE_ENV=session
+[2022-06-21T17:20:51.790] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T17:20:51.799] [INFO] default - MYSQL connected..
+[2022-06-21T17:20:57.030] [ERROR] default - ::1 - - "POST /users/login HTTP/1.1" 400 51 "" "PostmanRuntime/7.29.0"
+[2022-06-21T17:20:57.032] [ERROR] default - Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''himanshu10@gmail.com'' at line 1
+    at Query.Sequence._packetToError (C:\Practice\Backend-Practice-2\app\node_modules\mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (C:\Practice\Backend-Practice-2\app\node_modules\mysql\lib\protocol\sequences\Query.js:79:18)
+    at Protocol._parsePacket (C:\Practice\Backend-Practice-2\app\node_modules\mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (C:\Practice\Backend-Practice-2\app\node_modules\mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (C:\Practice\Backend-Practice-2\app\node_modules\mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (C:\Practice\Backend-Practice-2\app\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (C:\Practice\Backend-Practice-2\app\node_modules\mysql\lib\Connection.js:88:28)
+    at Socket.<anonymous> (C:\Practice\Backend-Practice-2\app\node_modules\mysql\lib\Connection.js:526:10)
+    at Socket.emit (node:events:527:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    --------------------
+    at Protocol._enqueue (C:\Practice\Backend-Practice-2\app\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at Connection.query (C:\Practice\Backend-Practice-2\app\node_modules\mysql\lib\Connection.js:198:25)
+    at savingLogs (C:\Practice\Backend-Practice-2\app\controllers\savingLogs.js:5:8)
+    at Query.<anonymous> (C:\Practice\Backend-Practice-2\app\controllers\auth.js:73:9)
+    at Query.<anonymous> (C:\Practice\Backend-Practice-2\app\node_modules\mysql\lib\Connection.js:526:10)
+    at Query._callback (C:\Practice\Backend-Practice-2\app\node_modules\mysql\lib\Connection.js:488:16)
+    at Query.Sequence.end (C:\Practice\Backend-Practice-2\app\node_modules\mysql\lib\protocol\sequences\Sequence.js:83:24)
+    at Query._handleFinalResultPacket (C:\Practice\Backend-Practice-2\app\node_modules\mysql\lib\protocol\sequences\Query.js:149:8)
+    at Query.EofPacket (C:\Practice\Backend-Practice-2\app\node_modules\mysql\lib\protocol\sequences\Query.js:133:8)
+    at Protocol._parsePacket (C:\Practice\Backend-Practice-2\app\node_modules\mysql\lib\protocol\Protocol.js:291:23) {
+  code: 'ER_PARSE_ERROR',
+  errno: 1064,
+  sqlMessage: "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''himanshu10@gmail.com'' at line 1",
+  sqlState: '42000',
+  index: 0,
+  sql: "Insert into logs set 'himanshu10@gmail.com'"
+}
+[2022-06-21T17:21:27.007] [INFO] default - NODE_ENV=session
+[2022-06-21T17:21:27.017] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T17:21:27.032] [INFO] default - MYSQL connected..
+[2022-06-21T17:21:30.671] [ERROR] default - ::1 - - "POST /users/login HTTP/1.1" 400 51 "" "PostmanRuntime/7.29.0"
+[2022-06-21T17:21:30.677] [ERROR] default - Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''\"himanshu10@gmail.com\"'' at line 1
+    at Query.Sequence._packetToError (C:\Practice\Backend-Practice-2\app\node_modules\mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (C:\Practice\Backend-Practice-2\app\node_modules\mysql\lib\protocol\sequences\Query.js:79:18)
+    at Protocol._parsePacket (C:\Practice\Backend-Practice-2\app\node_modules\mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (C:\Practice\Backend-Practice-2\app\node_modules\mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (C:\Practice\Backend-Practice-2\app\node_modules\mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (C:\Practice\Backend-Practice-2\app\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (C:\Practice\Backend-Practice-2\app\node_modules\mysql\lib\Connection.js:88:28)
+    at Socket.<anonymous> (C:\Practice\Backend-Practice-2\app\node_modules\mysql\lib\Connection.js:526:10)
+    at Socket.emit (node:events:527:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    --------------------
+    at Protocol._enqueue (C:\Practice\Backend-Practice-2\app\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at Connection.query (C:\Practice\Backend-Practice-2\app\node_modules\mysql\lib\Connection.js:198:25)
+    at savingLogs (C:\Practice\Backend-Practice-2\app\controllers\savingLogs.js:5:8)
+    at Query.<anonymous> (C:\Practice\Backend-Practice-2\app\controllers\auth.js:73:9)
+    at Query.<anonymous> (C:\Practice\Backend-Practice-2\app\node_modules\mysql\lib\Connection.js:526:10)
+    at Query._callback (C:\Practice\Backend-Practice-2\app\node_modules\mysql\lib\Connection.js:488:16)
+    at Query.Sequence.end (C:\Practice\Backend-Practice-2\app\node_modules\mysql\lib\protocol\sequences\Sequence.js:83:24)
+    at Query._handleFinalResultPacket (C:\Practice\Backend-Practice-2\app\node_modules\mysql\lib\protocol\sequences\Query.js:149:8)
+    at Query.EofPacket (C:\Practice\Backend-Practice-2\app\node_modules\mysql\lib\protocol\sequences\Query.js:133:8)
+    at Protocol._parsePacket (C:\Practice\Backend-Practice-2\app\node_modules\mysql\lib\protocol\Protocol.js:291:23) {
+  code: 'ER_PARSE_ERROR',
+  errno: 1064,
+  sqlMessage: `You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''\\"himanshu10@gmail.com\\"'' at line 1`,
+  sqlState: '42000',
+  index: 0,
+  sql: `Insert into logs set '\\"himanshu10@gmail.com\\"'`
+}
+[2022-06-21T17:23:30.184] [INFO] default - NODE_ENV=session
+[2022-06-21T17:23:30.190] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T17:23:30.206] [INFO] default - MYSQL connected..
+[2022-06-21T17:23:33.676] [ERROR] default - ::1 - - "POST /users/login HTTP/1.1" 400 51 "" "PostmanRuntime/7.29.0"
+[2022-06-21T17:23:33.679] [ERROR] default - null
+[2022-06-21T17:23:59.630] [INFO] default - NODE_ENV=session
+[2022-06-21T17:23:59.640] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T17:23:59.656] [INFO] default - MYSQL connected..
+[2022-06-21T17:24:11.930] [INFO] default - NODE_ENV=session
+[2022-06-21T17:24:11.937] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T17:24:11.952] [INFO] default - MYSQL connected..
+[2022-06-21T17:24:17.520] [ERROR] default - ::1 - - "POST /users/login HTTP/1.1" 400 51 "" "PostmanRuntime/7.29.0"
+[2022-06-21T17:24:59.890] [INFO] default - NODE_ENV=session
+[2022-06-21T17:24:59.899] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T17:24:59.909] [INFO] default - MYSQL connected..
+[2022-06-21T17:25:07.118] [ERROR] default - ::1 - - "POST /users/login HTTP/1.1" 400 51 "" "PostmanRuntime/7.29.0"
+[2022-06-21T17:26:02.833] [INFO] default - NODE_ENV=session
+[2022-06-21T17:26:02.839] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T17:26:02.853] [INFO] default - MYSQL connected..
+[2022-06-21T17:26:17.345] [INFO] default - NODE_ENV=session
+[2022-06-21T17:26:17.352] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T17:26:17.360] [INFO] default - MYSQL connected..
+[2022-06-21T17:26:26.857] [INFO] default - NODE_ENV=session
+[2022-06-21T17:26:26.865] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T17:26:26.874] [INFO] default - MYSQL connected..
+[2022-06-21T17:26:29.817] [ERROR] default - ::1 - - "POST /users/login HTTP/1.1" 400 51 "" "PostmanRuntime/7.29.0"
+[2022-06-21T17:27:34.589] [ERROR] default - ::1 - - "POST /users/login HTTP/1.1" 400 51 "" "PostmanRuntime/7.29.0"
+[2022-06-21T17:37:57.083] [INFO] default - NODE_ENV=session
+[2022-06-21T17:37:57.091] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T17:37:57.108] [INFO] default - MYSQL connected..
+[2022-06-21T17:39:11.239] [INFO] default - NODE_ENV=session
+[2022-06-21T17:39:11.250] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T17:39:11.271] [INFO] default - MYSQL connected..
+[2022-06-21T17:43:49.037] [INFO] default - NODE_ENV=session
+[2022-06-21T17:43:49.046] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T17:43:49.063] [INFO] default - MYSQL connected..
+[2022-06-21T17:44:39.250] [INFO] default - NODE_ENV=session
+[2022-06-21T17:44:39.258] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T17:44:39.284] [INFO] default - MYSQL connected..
+[2022-06-21T17:44:54.265] [INFO] default - NODE_ENV=session
+[2022-06-21T17:44:54.273] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T17:44:54.296] [INFO] default - MYSQL connected..
+[2022-06-21T17:45:44.431] [INFO] default - NODE_ENV=session
+[2022-06-21T17:45:44.438] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T17:45:44.457] [INFO] default - MYSQL connected..
+[2022-06-21T17:45:59.531] [INFO] default - NODE_ENV=session
+[2022-06-21T17:45:59.540] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T17:45:59.567] [INFO] default - MYSQL connected..
+[2022-06-21T17:46:27.701] [INFO] default - NODE_ENV=session
+[2022-06-21T17:46:27.709] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T17:46:27.733] [INFO] default - MYSQL connected..
+[2022-06-21T17:46:47.984] [INFO] default - NODE_ENV=session
+[2022-06-21T17:46:47.992] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T17:46:48.012] [INFO] default - MYSQL connected..
+[2022-06-21T17:52:18.318] [ERROR] default - ::1 - - "POST /users/login HTTP/1.1" 400 51 "" "PostmanRuntime/7.29.0"
+[2022-06-21T18:39:12.800] [INFO] default - NODE_ENV=session
+[2022-06-21T18:39:12.807] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T18:39:12.819] [INFO] default - MYSQL connected..
+[2022-06-21T18:40:01.691] [INFO] default - NODE_ENV=session
+[2022-06-21T18:40:01.700] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T18:40:01.714] [INFO] default - MYSQL connected..
+[2022-06-21T18:44:18.264] [INFO] default - NODE_ENV=session
+[2022-06-21T18:44:18.273] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T18:44:18.286] [INFO] default - MYSQL connected..
+[2022-06-21T18:45:00.082] [INFO] default - NODE_ENV=session
+[2022-06-21T18:45:00.099] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T18:45:00.121] [INFO] default - MYSQL connected..
+[2022-06-21T18:45:20.413] [INFO] default - NODE_ENV=session
+[2022-06-21T18:45:20.421] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T18:45:20.434] [INFO] default - MYSQL connected..
+[2022-06-21T18:45:50.498] [INFO] default - NODE_ENV=session
+[2022-06-21T18:45:50.505] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T18:45:50.522] [INFO] default - MYSQL connected..
+[2022-06-21T18:46:51.425] [INFO] default - NODE_ENV=session
+[2022-06-21T18:46:51.432] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T18:46:51.447] [INFO] default - MYSQL connected..
+[2022-06-21T18:47:30.522] [INFO] default - NODE_ENV=session
+[2022-06-21T18:47:30.530] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T18:47:30.546] [INFO] default - MYSQL connected..
+[2022-06-21T18:48:11.071] [INFO] default - NODE_ENV=session
+[2022-06-21T18:48:11.078] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T18:48:11.090] [INFO] default - MYSQL connected..
+[2022-06-21T18:48:46.924] [INFO] default - NODE_ENV=session
+[2022-06-21T18:48:46.934] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T18:48:46.948] [INFO] default - MYSQL connected..
+[2022-06-21T18:49:02.838] [INFO] default - NODE_ENV=session
+[2022-06-21T18:49:02.845] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T18:49:02.861] [INFO] default - MYSQL connected..
+[2022-06-21T18:49:24.911] [INFO] default - NODE_ENV=session
+[2022-06-21T18:49:24.918] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T18:49:24.934] [INFO] default - MYSQL connected..
+[2022-06-21T18:50:00.175] [INFO] default - ::1 - - "POST /users/register HTTP/1.1" 201 29 "" "PostmanRuntime/7.29.0"
+[2022-06-21T18:50:25.897] [ERROR] default - ::1 - - "POST /users/register HTTP/1.1" 409 53 "" "PostmanRuntime/7.29.0"
+[2022-06-21T18:51:32.041] [ERROR] default - ::1 - - "POST /users/register HTTP/1.1" 409 53 "" "PostmanRuntime/7.29.0"
+[2022-06-21T18:51:38.566] [ERROR] default - ::1 - - "POST /users/register HTTP/1.1" 400 55 "" "PostmanRuntime/7.29.0"
+[2022-06-21T18:59:04.906] [INFO] default - NODE_ENV=session
+[2022-06-21T18:59:04.914] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T18:59:04.935] [INFO] default - MYSQL connected..
+[2022-06-21T19:01:50.634] [ERROR] default - ::1 - - "POST /users/login HTTP/1.1" 400 51 "" "PostmanRuntime/7.29.0"
+[2022-06-21T19:01:58.678] [ERROR] default - ::1 - - "POST /users/login HTTP/1.1" 400 23 "" "PostmanRuntime/7.29.0"
+[2022-06-21T19:02:09.924] [INFO] default - NODE_ENV=session
+[2022-06-21T19:02:09.931] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T19:02:09.943] [INFO] default - MYSQL connected..
+[2022-06-21T19:03:12.268] [INFO] default - NODE_ENV=session
+[2022-06-21T19:03:12.276] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T19:03:12.300] [INFO] default - MYSQL connected..
+[2022-06-21T19:03:50.481] [INFO] default - NODE_ENV=session
+[2022-06-21T19:03:50.488] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T19:03:50.502] [INFO] default - MYSQL connected..
+[2022-06-21T19:04:18.368] [INFO] default - NODE_ENV=session
+[2022-06-21T19:04:18.375] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T19:04:18.391] [INFO] default - MYSQL connected..
+[2022-06-21T19:04:35.444] [INFO] default - NODE_ENV=session
+[2022-06-21T19:04:35.452] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T19:04:35.465] [INFO] default - MYSQL connected..
+[2022-06-21T19:05:06.794] [INFO] default - NODE_ENV=session
+[2022-06-21T19:05:06.801] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T19:05:06.813] [INFO] default - MYSQL connected..
+[2022-06-21T19:05:34.667] [INFO] default - NODE_ENV=session
+[2022-06-21T19:05:34.678] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T19:05:34.690] [INFO] default - MYSQL connected..
+[2022-06-21T19:06:13.337] [INFO] default - NODE_ENV=session
+[2022-06-21T19:06:13.346] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T19:06:13.356] [INFO] default - MYSQL connected..
+[2022-06-21T19:06:47.603] [INFO] default - NODE_ENV=session
+[2022-06-21T19:06:47.612] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T19:06:47.626] [INFO] default - MYSQL connected..
+[2022-06-21T19:07:09.964] [INFO] default - NODE_ENV=session
+[2022-06-21T19:07:09.970] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T19:07:09.989] [INFO] default - MYSQL connected..
+[2022-06-21T19:07:39.667] [INFO] default - NODE_ENV=session
+[2022-06-21T19:07:39.680] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T19:07:39.698] [INFO] default - MYSQL connected..
+[2022-06-21T19:07:47.768] [INFO] default - NODE_ENV=session
+[2022-06-21T19:07:47.774] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T19:07:47.789] [INFO] default - MYSQL connected..
+[2022-06-21T19:08:18.885] [ERROR] default - ::1 - - "POST /users/login HTTP/1.1" 400 51 "" "PostmanRuntime/7.29.0"
+[2022-06-21T19:09:24.217] [INFO] default - NODE_ENV=session
+[2022-06-21T19:09:24.223] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T19:09:24.232] [INFO] default - MYSQL connected..
+[2022-06-21T19:12:39.208] [INFO] default - NODE_ENV=session
+[2022-06-21T19:12:39.215] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T19:12:39.224] [INFO] default - MYSQL connected..
+[2022-06-21T19:13:04.544] [INFO] default - NODE_ENV=session
+[2022-06-21T19:13:04.553] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T19:13:04.564] [INFO] default - MYSQL connected..
+[2022-06-21T19:13:48.514] [INFO] default - NODE_ENV=session
+[2022-06-21T19:13:48.521] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T19:13:48.531] [INFO] default - MYSQL connected..
+[2022-06-21T19:14:08.074] [ERROR] default - ::1 - - "POST /users/login HTTP/1.1" 400 35 "" "PostmanRuntime/7.29.0"
+[2022-06-21T19:17:28.931] [INFO] default - NODE_ENV=session
+[2022-06-21T19:17:28.938] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T19:17:28.949] [INFO] default - MYSQL connected..
+[2022-06-21T19:17:33.342] [ERROR] default - ::1 - - "POST /users/login HTTP/1.1" 400 35 "" "PostmanRuntime/7.29.0"
+[2022-06-21T19:18:23.730] [INFO] default - ::1 - - "POST /users/login HTTP/1.1" 200 230 "" "PostmanRuntime/7.29.0"
+[2022-06-21T19:18:40.441] [INFO] default - NODE_ENV=jwt
+[2022-06-21T19:18:40.447] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T19:18:40.456] [INFO] default - MYSQL connected..
+[2022-06-21T19:18:44.160] [INFO] default - ::1 - - "POST /users/login HTTP/1.1" 200 576 "" "PostmanRuntime/7.29.0"
+[2022-06-21T19:21:23.513] [INFO] default - NODE_ENV=jwt
+[2022-06-21T19:21:23.518] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T19:21:23.528] [INFO] default - MYSQL connected..
+[2022-06-21T19:22:24.651] [INFO] default - NODE_ENV=jwt
+[2022-06-21T19:22:24.667] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T19:22:24.689] [INFO] default - MYSQL connected..
+[2022-06-21T19:22:51.215] [INFO] default - NODE_ENV=jwt
+[2022-06-21T19:22:51.222] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T19:22:51.233] [INFO] default - MYSQL connected..
+[2022-06-21T19:23:54.429] [INFO] default - NODE_ENV=jwt
+[2022-06-21T19:23:54.440] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T19:23:54.457] [INFO] default - MYSQL connected..
+[2022-06-21T19:25:20.384] [INFO] default - NODE_ENV=jwt
+[2022-06-21T19:25:20.391] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T19:25:20.401] [INFO] default - MYSQL connected..
+[2022-06-21T19:25:38.367] [INFO] default - NODE_ENV=jwt
+[2022-06-21T19:25:38.373] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T19:25:38.382] [INFO] default - MYSQL connected..
+[2022-06-21T19:26:12.953] [INFO] default - NODE_ENV=jwt
+[2022-06-21T19:26:12.961] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T19:26:12.974] [INFO] default - MYSQL connected..
+[2022-06-21T19:27:05.437] [INFO] default - NODE_ENV=jwt
+[2022-06-21T19:27:05.445] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T19:27:05.458] [INFO] default - MYSQL connected..
+[2022-06-21T19:27:52.460] [INFO] default - NODE_ENV=jwt
+[2022-06-21T19:27:52.466] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T19:27:52.476] [INFO] default - MYSQL connected..
+[2022-06-21T19:28:25.995] [INFO] default - NODE_ENV=jwt
+[2022-06-21T19:28:26.001] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T19:28:26.010] [INFO] default - MYSQL connected..
+[2022-06-21T19:28:56.684] [INFO] default - NODE_ENV=jwt
+[2022-06-21T19:28:56.693] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T19:28:56.703] [INFO] default - MYSQL connected..
+[2022-06-21T19:32:07.792] [INFO] default - ::1 - - "POST /users/login HTTP/1.1" 200 576 "" "PostmanRuntime/7.29.0"
+[2022-06-21T19:32:29.184] [INFO] default - ::1 - - "GET /posts/all HTTP/1.1" 200 11 "" "PostmanRuntime/7.29.0"
+[2022-06-21T19:32:42.086] [INFO] default - ::1 - - "GET /posts/all HTTP/1.1" 200 11 "" "PostmanRuntime/7.29.0"
+[2022-06-21T19:32:43.344] [INFO] default - ::1 - - "GET /posts/all HTTP/1.1" 200 11 "" "PostmanRuntime/7.29.0"
+[2022-06-21T19:32:44.359] [INFO] default - ::1 - - "GET /posts/all HTTP/1.1" 200 11 "" "PostmanRuntime/7.29.0"
+[2022-06-21T19:32:44.812] [INFO] default - ::1 - - "GET /posts/all HTTP/1.1" 200 11 "" "PostmanRuntime/7.29.0"
+[2022-06-21T19:32:45.171] [INFO] default - ::1 - - "GET /posts/all HTTP/1.1" 200 11 "" "PostmanRuntime/7.29.0"
+[2022-06-21T19:32:45.533] [INFO] default - ::1 - - "GET /posts/all HTTP/1.1" 200 11 "" "PostmanRuntime/7.29.0"
+[2022-06-21T19:32:45.852] [INFO] default - ::1 - - "GET /posts/all HTTP/1.1" 200 11 "" "PostmanRuntime/7.29.0"
+[2022-06-21T19:32:51.903] [INFO] default - ::1 - - "GET /posts/all HTTP/1.1" 200 11 "" "PostmanRuntime/7.29.0"
+[2022-06-21T19:32:52.963] [INFO] default - ::1 - - "GET /posts/all HTTP/1.1" 200 11 "" "PostmanRuntime/7.29.0"
+[2022-06-21T19:32:53.573] [INFO] default - ::1 - - "GET /posts/all HTTP/1.1" 200 11 "" "PostmanRuntime/7.29.0"
+[2022-06-21T19:32:53.966] [INFO] default - ::1 - - "GET /posts/all HTTP/1.1" 200 11 "" "PostmanRuntime/7.29.0"
+[2022-06-21T19:32:54.488] [INFO] default - ::1 - - "GET /posts/all HTTP/1.1" 200 11 "" "PostmanRuntime/7.29.0"
+[2022-06-21T19:32:55.001] [INFO] default - ::1 - - "GET /posts/all HTTP/1.1" 200 11 "" "PostmanRuntime/7.29.0"
+[2022-06-21T19:32:55.303] [INFO] default - ::1 - - "GET /posts/all HTTP/1.1" 200 11 "" "PostmanRuntime/7.29.0"
+[2022-06-21T19:32:55.699] [INFO] default - ::1 - - "GET /posts/all HTTP/1.1" 200 11 "" "PostmanRuntime/7.29.0"
+[2022-06-21T19:33:00.312] [INFO] default - ::1 - - "GET /posts/all HTTP/1.1" 200 11 "" "PostmanRuntime/7.29.0"
+[2022-06-21T19:33:01.443] [INFO] default - ::1 - - "GET /posts/all HTTP/1.1" 200 11 "" "PostmanRuntime/7.29.0"
+[2022-06-21T19:33:02.228] [INFO] default - ::1 - - "GET /posts/all HTTP/1.1" 200 11 "" "PostmanRuntime/7.29.0"
+[2022-06-21T19:33:02.647] [INFO] default - ::1 - - "GET /posts/all HTTP/1.1" 200 11 "" "PostmanRuntime/7.29.0"
+[2022-06-21T19:33:03.082] [INFO] default - ::1 - - "GET /posts/all HTTP/1.1" 200 11 "" "PostmanRuntime/7.29.0"
+[2022-06-21T19:33:03.388] [INFO] default - ::1 - - "GET /posts/all HTTP/1.1" 200 11 "" "PostmanRuntime/7.29.0"
+[2022-06-21T19:33:03.703] [INFO] default - ::1 - - "GET /posts/all HTTP/1.1" 200 11 "" "PostmanRuntime/7.29.0"
+[2022-06-21T19:33:04.115] [INFO] default - ::1 - - "GET /posts/all HTTP/1.1" 200 11 "" "PostmanRuntime/7.29.0"
+[2022-06-21T19:33:13.802] [ERROR] default - ::1 - - "GET /posts/all HTTP/1.1" 403 9 "" "PostmanRuntime/7.29.0"
+[2022-06-21T19:33:45.365] [INFO] default - ::1 - - "POST /users/refreshToken HTTP/1.1" 200 218 "" "PostmanRuntime/7.29.0"
+[2022-06-21T19:34:52.905] [INFO] default - NODE_ENV=jwt
+[2022-06-21T19:34:52.912] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T19:34:52.921] [INFO] default - MYSQL connected..
+[2022-06-21T19:34:58.349] [INFO] default - ::1 - - "POST /users/refreshToken HTTP/1.1" 200 218 "" "PostmanRuntime/7.29.0"
+[2022-06-21T20:15:31.568] [INFO] default - NODE_ENV=jwt
+[2022-06-21T20:15:31.574] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T20:15:31.585] [INFO] default - MYSQL connected..
+[2022-06-21T20:15:54.834] [INFO] default - ::1 - - "POST /users/register HTTP/1.1" 201 29 "" "PostmanRuntime/7.29.0"
+[2022-06-21T20:16:07.618] [INFO] default - ::1 - - "POST /users/login HTTP/1.1" 200 576 "" "PostmanRuntime/7.29.0"
+[2022-06-21T20:16:43.217] [INFO] default - ::1 - - "POST /users/refreshToken HTTP/1.1" 200 218 "" "PostmanRuntime/7.29.0"
+[2022-06-21T20:17:01.205] [ERROR] default - ::1 - - "POST /users/refreshToken HTTP/1.1" 403 33 "" "PostmanRuntime/7.29.0"
+[2022-06-21T20:19:06.485] [INFO] default - ::1 - - "POST /users/refreshToken HTTP/1.1" 200 218 "" "PostmanRuntime/7.29.0"
+[2022-06-21T20:23:37.297] [ERROR] default - ::1 - - "POST /posts/create HTTP/1.1" 403 9 "" "PostmanRuntime/7.29.0"
+[2022-06-21T20:23:43.699] [INFO] default - ::1 - - "POST /users/login HTTP/1.1" 200 576 "" "PostmanRuntime/7.29.0"
+[2022-06-21T20:24:10.796] [INFO] default - ::1 - - "POST /posts/create HTTP/1.1" 201 83 "" "PostmanRuntime/7.29.0"
+[2022-06-21T20:24:42.005] [INFO] default - ::1 - - "GET /posts/view/20dcfc43df66b6278e9a62ca93288a7a HTTP/1.1" 200 22 "" "PostmanRuntime/7.29.0"
+[2022-06-21T20:24:48.262] [ERROR] default - ::1 - - "GET /posts/view/20dcfc43df66b6278e9a62ca9328a7a HTTP/1.1" 403 9 "" "PostmanRuntime/7.29.0"
+[2022-06-21T20:24:53.712] [INFO] default - ::1 - - "POST /users/login HTTP/1.1" 200 576 "" "PostmanRuntime/7.29.0"
+[2022-06-21T20:27:44.497] [INFO] default - NODE_ENV=jwt
+[2022-06-21T20:27:44.504] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T20:27:44.518] [INFO] default - MYSQL connected..
+[2022-06-21T20:27:47.572] [INFO] default - ::1 - - "POST /users/login HTTP/1.1" 200 576 "" "PostmanRuntime/7.29.0"
+[2022-06-21T20:28:12.071] [INFO] default - ::1 - - "GET /posts/view/20dcfc43df66b6278e9a62ca93288a7a HTTP/1.1" 200 22 "" "PostmanRuntime/7.29.0"
+[2022-06-21T20:29:54.363] [INFO] default - NODE_ENV=jwt
+[2022-06-21T20:29:54.371] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T20:29:54.382] [INFO] default - MYSQL connected..
+[2022-06-21T20:30:10.249] [INFO] default - NODE_ENV=jwt
+[2022-06-21T20:30:10.255] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T20:30:10.266] [INFO] default - MYSQL connected..
+[2022-06-21T20:30:31.898] [INFO] default - ::1 - - "POST /users/login HTTP/1.1" 200 576 "" "PostmanRuntime/7.29.0"
+[2022-06-21T20:30:57.887] [INFO] default - NODE_ENV=jwt
+[2022-06-21T20:30:57.893] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T20:30:57.903] [INFO] default - MYSQL connected..
+[2022-06-21T20:31:00.624] [INFO] default - ::1 - - "GET /posts/view/20dcfc43df66b6278e9a62ca93288a7a HTTP/1.1" 200 22 "" "PostmanRuntime/7.29.0"
+[2022-06-21T20:31:14.359] [INFO] default - NODE_ENV=jwt
+[2022-06-21T20:31:14.364] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T20:31:14.374] [INFO] default - MYSQL connected..
+[2022-06-21T20:31:55.358] [INFO] default - NODE_ENV=jwt
+[2022-06-21T20:31:55.367] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T20:31:55.382] [INFO] default - MYSQL connected..
+[2022-06-21T20:32:12.279] [INFO] default - NODE_ENV=jwt
+[2022-06-21T20:32:12.288] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T20:32:12.298] [INFO] default - MYSQL connected..
+[2022-06-21T20:33:22.228] [INFO] default - NODE_ENV=jwt
+[2022-06-21T20:33:22.237] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T20:33:22.247] [INFO] default - MYSQL connected..
+[2022-06-21T20:34:19.500] [INFO] default - NODE_ENV=jwt
+[2022-06-21T20:34:19.505] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T20:34:19.515] [INFO] default - MYSQL connected..
+[2022-06-21T20:35:02.910] [INFO] default - NODE_ENV=jwt
+[2022-06-21T20:35:02.919] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T20:35:02.932] [INFO] default - MYSQL connected..
+[2022-06-21T20:54:49.557] [INFO] default - NODE_ENV=jwt
+[2022-06-21T20:54:49.563] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T20:54:49.576] [INFO] default - MYSQL connected..
+[2022-06-21T20:55:29.860] [INFO] default - NODE_ENV=jwt
+[2022-06-21T20:55:29.865] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T20:55:29.874] [INFO] default - MYSQL connected..
+[2022-06-21T20:57:05.402] [INFO] default - NODE_ENV=jwt
+[2022-06-21T20:57:05.411] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T20:57:05.425] [INFO] default - MYSQL connected..
+[2022-06-21T20:57:23.743] [INFO] default - NODE_ENV=jwt
+[2022-06-21T20:57:23.749] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T20:57:23.758] [INFO] default - MYSQL connected..
+[2022-06-21T20:57:40.632] [INFO] default - NODE_ENV=jwt
+[2022-06-21T20:57:40.641] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T20:57:40.656] [INFO] default - MYSQL connected..
+[2022-06-21T20:58:00.720] [INFO] default - NODE_ENV=jwt
+[2022-06-21T20:58:00.727] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T20:58:00.735] [INFO] default - MYSQL connected..
+[2022-06-21T20:58:13.923] [INFO] default - NODE_ENV=jwt
+[2022-06-21T20:58:13.929] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T20:58:13.942] [INFO] default - MYSQL connected..
+[2022-06-21T20:58:43.038] [INFO] default - NODE_ENV=jwt
+[2022-06-21T20:58:43.045] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T20:58:43.058] [INFO] default - MYSQL connected..
+[2022-06-21T20:58:50.982] [INFO] default - NODE_ENV=jwt
+[2022-06-21T20:58:50.990] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T20:58:51.000] [INFO] default - MYSQL connected..
+[2022-06-21T20:59:13.097] [INFO] default - NODE_ENV=jwt
+[2022-06-21T20:59:13.103] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T20:59:13.114] [INFO] default - MYSQL connected..
+[2022-06-21T20:59:24.262] [INFO] default - NODE_ENV=jwt
+[2022-06-21T20:59:24.269] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T20:59:24.279] [INFO] default - MYSQL connected..
+[2022-06-21T20:59:41.607] [INFO] default - NODE_ENV=jwt
+[2022-06-21T20:59:41.614] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T20:59:41.624] [INFO] default - MYSQL connected..
+[2022-06-21T21:00:30.767] [INFO] default - NODE_ENV=jwt
+[2022-06-21T21:00:30.773] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T21:00:30.782] [INFO] default - MYSQL connected..
+[2022-06-21T21:00:38.106] [INFO] default - NODE_ENV=jwt
+[2022-06-21T21:00:38.113] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T21:00:38.125] [INFO] default - MYSQL connected..
+[2022-06-21T21:04:46.733] [INFO] default - NODE_ENV=jwt
+[2022-06-21T21:04:46.740] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T21:04:46.754] [INFO] default - MYSQL connected..
+[2022-06-21T21:04:59.753] [INFO] default - NODE_ENV=jwt
+[2022-06-21T21:04:59.759] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T21:04:59.769] [INFO] default - MYSQL connected..
+[2022-06-21T21:05:32.665] [INFO] default - NODE_ENV=jwt
+[2022-06-21T21:05:32.671] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T21:05:32.680] [INFO] default - MYSQL connected..
+[2022-06-21T21:06:10.403] [INFO] default - NODE_ENV=jwt
+[2022-06-21T21:06:10.411] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T21:06:10.420] [INFO] default - MYSQL connected..
+[2022-06-21T21:07:04.971] [INFO] default - NODE_ENV=jwt
+[2022-06-21T21:07:04.976] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T21:07:04.985] [INFO] default - MYSQL connected..
+[2022-06-21T21:08:06.568] [INFO] default - NODE_ENV=jwt
+[2022-06-21T21:08:06.575] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T21:08:06.584] [INFO] default - MYSQL connected..
+[2022-06-21T21:08:59.179] [INFO] default - NODE_ENV=jwt
+[2022-06-21T21:08:59.186] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T21:08:59.195] [INFO] default - MYSQL connected..
+[2022-06-21T21:09:21.672] [INFO] default - NODE_ENV=jwt
+[2022-06-21T21:09:21.679] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T21:09:21.689] [INFO] default - MYSQL connected..
+[2022-06-21T21:10:35.418] [INFO] default - NODE_ENV=jwt
+[2022-06-21T21:10:35.426] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T21:10:35.441] [INFO] default - MYSQL connected..
+[2022-06-21T21:10:55.241] [INFO] default - ::1 - - "POST /users/login HTTP/1.1" 200 576 "" "PostmanRuntime/7.29.0"
+[2022-06-21T21:11:14.379] [INFO] default - ::1 - - "POST /posts/create HTTP/1.1" 201 81 "" "PostmanRuntime/7.29.0"
+[2022-06-21T21:11:59.665] [INFO] default - NODE_ENV=jwt
+[2022-06-21T21:11:59.671] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T21:11:59.680] [INFO] default - MYSQL connected..
+[2022-06-21T21:12:03.772] [ERROR] default - ::1 - - "POST /posts/create HTTP/1.1" 403 9 "" "PostmanRuntime/7.29.0"
+[2022-06-21T21:12:08.829] [INFO] default - ::1 - - "POST /users/login HTTP/1.1" 200 576 "" "PostmanRuntime/7.29.0"
+[2022-06-21T21:12:23.786] [INFO] default - ::1 - - "POST /posts/create HTTP/1.1" 201 81 "" "PostmanRuntime/7.29.0"
+[2022-06-21T21:14:39.859] [INFO] default - NODE_ENV=jwt
+[2022-06-21T21:14:39.867] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T21:14:39.877] [INFO] default - MYSQL connected..
+[2022-06-21T21:14:44.766] [INFO] default - ::1 - - "POST /users/login HTTP/1.1" 200 576 "" "PostmanRuntime/7.29.0"
+[2022-06-21T21:15:20.722] [INFO] default - ::1 - - "POST /posts/create HTTP/1.1" 201 81 "" "PostmanRuntime/7.29.0"
+[2022-06-21T21:16:13.574] [INFO] default - NODE_ENV=jwt
+[2022-06-21T21:16:13.579] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T21:16:13.589] [INFO] default - MYSQL connected..
+[2022-06-21T21:16:15.455] [INFO] default - NODE_ENV=jwt
+[2022-06-21T21:16:15.462] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T21:16:15.474] [INFO] default - MYSQL connected..
+[2022-06-21T21:16:48.076] [INFO] default - NODE_ENV=jwt
+[2022-06-21T21:16:48.082] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T21:16:48.091] [INFO] default - MYSQL connected..
+[2022-06-21T21:17:18.162] [INFO] default - NODE_ENV=jwt
+[2022-06-21T21:17:18.168] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T21:17:18.177] [INFO] default - MYSQL connected..
+[2022-06-21T21:18:35.194] [INFO] default - NODE_ENV=jwt
+[2022-06-21T21:18:35.203] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T21:18:35.215] [INFO] default - MYSQL connected..
+[2022-06-21T21:18:38.274] [INFO] default - NODE_ENV=jwt
+[2022-06-21T21:18:38.282] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T21:18:38.295] [INFO] default - MYSQL connected..
+[2022-06-21T21:19:13.568] [INFO] default - NODE_ENV=jwt
+[2022-06-21T21:19:13.575] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T21:19:13.584] [INFO] default - MYSQL connected..
+[2022-06-21T21:19:45.341] [INFO] default - ::1 - - "POST /users/login HTTP/1.1" 200 576 "" "PostmanRuntime/7.29.0"
+[2022-06-21T21:20:01.545] [INFO] default - ::1 - - "POST /posts/create HTTP/1.1" 201 81 "" "PostmanRuntime/7.29.0"
+[2022-06-21T22:14:12.284] [INFO] default - NODE_ENV=jwt
+[2022-06-21T22:14:12.293] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T22:14:12.304] [INFO] default - MYSQL connected..
+[2022-06-21T22:29:09.978] [INFO] default - NODE_ENV=jwt
+[2022-06-21T22:29:09.986] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T22:29:09.998] [INFO] default - MYSQL connected..
+[2022-06-21T22:30:13.022] [INFO] default - NODE_ENV=jwt
+[2022-06-21T22:30:13.033] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T22:30:13.050] [INFO] default - MYSQL connected..
+[2022-06-21T22:31:01.499] [INFO] default - NODE_ENV=jwt
+[2022-06-21T22:31:01.505] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T22:31:01.514] [INFO] default - MYSQL connected..
+[2022-06-21T22:31:32.564] [INFO] default - NODE_ENV=jwt
+[2022-06-21T22:31:32.570] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T22:31:32.579] [INFO] default - MYSQL connected..
+[2022-06-21T22:31:55.338] [INFO] default - ::1 - - "POST /users/login HTTP/1.1" 200 576 "" "PostmanRuntime/7.29.0"
+[2022-06-21T22:32:20.255] [INFO] default - ::1 - - "GET /posts/all HTTP/1.1" 200 1085 "" "PostmanRuntime/7.29.0"
+[2022-06-21T22:33:49.414] [INFO] default - NODE_ENV=jwt
+[2022-06-21T22:33:49.423] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T22:33:49.441] [INFO] default - MYSQL connected..
+[2022-06-21T22:34:27.604] [INFO] default - NODE_ENV=jwt
+[2022-06-21T22:34:27.612] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T22:34:27.625] [INFO] default - MYSQL connected..
+[2022-06-21T22:34:47.174] [INFO] default - ::1 - - "POST /users/login HTTP/1.1" 200 576 "" "PostmanRuntime/7.29.0"
+[2022-06-21T22:35:07.024] [INFO] default - ::1 - - "GET /posts/view/user/1 HTTP/1.1" 200 1085 "" "PostmanRuntime/7.29.0"
+[2022-06-21T22:43:00.414] [INFO] default - NODE_ENV=jwt
+[2022-06-21T22:43:00.421] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T22:43:00.432] [INFO] default - MYSQL connected..
+[2022-06-21T22:43:14.820] [INFO] default - NODE_ENV=jwt
+[2022-06-21T22:43:14.827] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T22:43:14.836] [INFO] default - MYSQL connected..
+[2022-06-21T22:43:22.797] [INFO] default - ::1 - - "POST /users/login HTTP/1.1" 200 576 "" "PostmanRuntime/7.29.0"
+[2022-06-21T22:43:54.182] [INFO] default - ::1 - - "GET /posts/view/user/1 HTTP/1.1" 200 2132 "" "PostmanRuntime/7.29.0"
+[2022-06-21T22:44:19.956] [INFO] default - NODE_ENV=jwt
+[2022-06-21T22:44:19.963] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T22:44:19.975] [INFO] default - MYSQL connected..
+[2022-06-21T22:44:32.204] [INFO] default - ::1 - - "POST /users/login HTTP/1.1" 200 576 "" "PostmanRuntime/7.29.0"
+[2022-06-21T22:44:45.302] [INFO] default - ::1 - - "GET /posts/view/user/1 HTTP/1.1" 200 2132 "" "PostmanRuntime/7.29.0"
+[2022-06-21T22:45:51.298] [INFO] default - NODE_ENV=jwt
+[2022-06-21T22:45:51.304] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T22:45:51.313] [INFO] default - MYSQL connected..
+[2022-06-21T22:46:31.329] [INFO] default - NODE_ENV=jwt
+[2022-06-21T22:46:31.338] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T22:46:31.350] [INFO] default - MYSQL connected..
+[2022-06-21T22:46:46.093] [INFO] default - ::1 - - "POST /users/login HTTP/1.1" 200 576 "" "PostmanRuntime/7.29.0"
+[2022-06-21T22:47:00.872] [INFO] default - ::1 - - "GET /posts/all HTTP/1.1" 200 1085 "" "PostmanRuntime/7.29.0"
+[2022-06-21T22:48:38.509] [INFO] default - NODE_ENV=jwt
+[2022-06-21T22:48:38.516] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T22:48:38.527] [INFO] default - MYSQL connected..
+[2022-06-21T22:49:15.436] [INFO] default - ::1 - - "POST /users/login HTTP/1.1" 200 576 "" "PostmanRuntime/7.29.0"
+[2022-06-21T22:49:30.256] [ERROR] default - ::1 - - "POST /posts/create HTTP/1.1" 403 9 "" "PostmanRuntime/7.29.0"
+[2022-06-21T22:49:36.593] [INFO] default - ::1 - - "POST /users/login HTTP/1.1" 200 576 "" "PostmanRuntime/7.29.0"
+[2022-06-21T22:49:50.992] [INFO] default - ::1 - - "POST /posts/create HTTP/1.1" 201 81 "" "PostmanRuntime/7.29.0"
+[2022-06-21T22:52:47.712] [INFO] default - NODE_ENV=jwt
+[2022-06-21T22:52:47.720] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T22:52:47.733] [INFO] default - MYSQL connected..
+[2022-06-21T22:53:25.507] [INFO] default - NODE_ENV=jwt
+[2022-06-21T22:53:25.515] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T22:53:25.526] [INFO] default - MYSQL connected..
+[2022-06-21T22:54:13.606] [INFO] default - NODE_ENV=jwt
+[2022-06-21T22:54:13.618] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T22:54:13.626] [INFO] default - MYSQL connected..
+[2022-06-21T22:54:49.211] [INFO] default - NODE_ENV=jwt
+[2022-06-21T22:54:49.217] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T22:54:49.227] [INFO] default - MYSQL connected..
+[2022-06-21T22:56:06.817] [INFO] default - NODE_ENV=jwt
+[2022-06-21T22:56:06.822] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T22:56:06.834] [INFO] default - MYSQL connected..
+[2022-06-21T22:56:43.617] [INFO] default - ::1 - - "POST /users/login HTTP/1.1" 200 576 "" "PostmanRuntime/7.29.0"
+[2022-06-21T22:57:11.574] [INFO] default - ::1 - - "GET /posts/view/c0bb3c147586ab23047bc6ff6c802649 HTTP/1.1" 200 39 "" "PostmanRuntime/7.29.0"
+[2022-06-21T22:58:18.105] [INFO] default - ::1 - - "POST /users/login HTTP/1.1" 200 576 "" "PostmanRuntime/7.29.0"
+[2022-06-21T22:58:42.147] [ERROR] default - ::1 - - "GET /posts/view/c0bb3c147586ab23047bc6ff6c802649 HTTP/1.1" 400 32 "" "PostmanRuntime/7.29.0"
+[2022-06-21T23:02:43.365] [INFO] default - NODE_ENV=jwt
+[2022-06-21T23:02:43.373] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T23:02:43.382] [INFO] default - MYSQL connected..
+[2022-06-21T23:03:05.629] [INFO] default - NODE_ENV=jwt
+[2022-06-21T23:03:05.635] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T23:03:05.645] [INFO] default - MYSQL connected..
+[2022-06-21T23:04:11.900] [INFO] default - NODE_ENV=jwt
+[2022-06-21T23:04:11.910] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T23:04:11.923] [INFO] default - MYSQL connected..
+[2022-06-21T23:04:14.609] [INFO] default - NODE_ENV=jwt
+[2022-06-21T23:04:14.622] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T23:04:14.636] [INFO] default - MYSQL connected..
+[2022-06-21T23:04:24.288] [INFO] default - NODE_ENV=session
+[2022-06-21T23:04:24.296] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T23:04:24.306] [INFO] default - MYSQL connected..
+[2022-06-21T23:04:32.468] [INFO] default - ::1 - - "POST /users/login HTTP/1.1" 200 230 "" "PostmanRuntime/7.29.0"
+[2022-06-21T23:04:43.463] [INFO] default - ::1 - - "GET /posts/all HTTP/1.1" 200 1296 "" "PostmanRuntime/7.29.0"
+[2022-06-21T23:05:36.290] [INFO] default - NODE_ENV=session
+[2022-06-21T23:05:36.298] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T23:05:36.311] [INFO] default - MYSQL connected..
+[2022-06-21T23:06:27.221] [ERROR] default - ::1 - - "GET /posts/all HTTP/1.1" 500 1349 "" "PostmanRuntime/7.29.0"
+[2022-06-21T23:07:01.791] [INFO] default - NODE_ENV=session
+[2022-06-21T23:07:01.799] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T23:07:01.809] [INFO] default - MYSQL connected..
+[2022-06-21T23:07:04.606] [ERROR] default - ::1 - - "GET /posts/all HTTP/1.1" 500 1377 "" "PostmanRuntime/7.29.0"
+[2022-06-21T23:07:15.581] [INFO] default - NODE_ENV=session
+[2022-06-21T23:07:15.591] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T23:07:15.608] [INFO] default - MYSQL connected..
+[2022-06-21T23:07:28.323] [ERROR] default - ::1 - - "GET /posts/all HTTP/1.1" 500 1377 "" "PostmanRuntime/7.29.0"
+[2022-06-21T23:08:14.977] [INFO] default - NODE_ENV=session
+[2022-06-21T23:08:14.984] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T23:08:14.994] [INFO] default - MYSQL connected..
+[2022-06-21T23:08:47.505] [ERROR] default - ::1 - - "GET /posts/all HTTP/1.1" 500 1377 "" "PostmanRuntime/7.29.0"
+[2022-06-21T23:09:12.245] [INFO] default - NODE_ENV=session
+[2022-06-21T23:09:12.252] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T23:09:12.263] [INFO] default - MYSQL connected..
+[2022-06-21T23:09:16.868] [ERROR] default - ::1 - - "GET /posts/all HTTP/1.1" 403 33 "" "PostmanRuntime/7.29.0"
+[2022-06-21T23:11:49.344] [INFO] default - NODE_ENV=session
+[2022-06-21T23:11:49.349] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T23:11:49.356] [INFO] default - MYSQL connected..
+[2022-06-21T23:12:53.563] [INFO] default - NODE_ENV=session
+[2022-06-21T23:12:53.568] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T23:12:53.575] [INFO] default - MYSQL connected..
+[2022-06-21T23:13:24.203] [INFO] default - NODE_ENV=session
+[2022-06-21T23:13:24.209] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T23:13:24.218] [INFO] default - MYSQL connected..
+[2022-06-21T23:13:44.487] [INFO] default - NODE_ENV=session
+[2022-06-21T23:13:44.494] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T23:13:44.501] [INFO] default - MYSQL connected..
+[2022-06-21T23:14:12.060] [INFO] default - NODE_ENV=session
+[2022-06-21T23:14:12.067] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T23:14:12.075] [INFO] default - MYSQL connected..
+[2022-06-21T23:15:20.960] [INFO] default - NODE_ENV=session
+[2022-06-21T23:15:20.965] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T23:15:20.972] [INFO] default - MYSQL connected..
+[2022-06-21T23:15:36.914] [INFO] default - NODE_ENV=jwt
+[2022-06-21T23:15:36.920] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T23:15:36.927] [INFO] default - MYSQL connected..
+[2022-06-21T23:15:43.754] [INFO] default - ::1 - - "POST /users/login HTTP/1.1" 200 576 "" "PostmanRuntime/7.29.0"
+[2022-06-21T23:16:06.912] [INFO] default - ::1 - - "GET /posts/all HTTP/1.1" 200 1296 "" "PostmanRuntime/7.29.0"
+[2022-06-21T23:16:19.818] [INFO] default - ::1 - - "GET /posts/all HTTP/1.1" 200 1296 "" "PostmanRuntime/7.29.0"
+[2022-06-21T23:16:31.568] [INFO] default - ::1 - - "GET /posts/all HTTP/1.1" 200 1296 "" "PostmanRuntime/7.29.0"
+[2022-06-21T23:16:49.224] [ERROR] default - ::1 - - "GET /posts/all HTTP/1.1" 500 1319 "" "PostmanRuntime/7.29.0"
+[2022-06-21T23:17:46.572] [INFO] default - NODE_ENV=jwt
+[2022-06-21T23:17:46.576] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T23:17:46.585] [INFO] default - MYSQL connected..
+[2022-06-21T23:17:51.163] [ERROR] default - ::1 - - "GET /posts/all HTTP/1.1" 403 19 "" "PostmanRuntime/7.29.0"
+[2022-06-21T23:18:48.651] [INFO] default - NODE_ENV=jwt
+[2022-06-21T23:18:48.655] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T23:18:48.664] [INFO] default - MYSQL connected..
+[2022-06-21T23:18:59.402] [INFO] default - NODE_ENV=jwt
+[2022-06-21T23:18:59.408] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T23:18:59.416] [INFO] default - MYSQL connected..
+[2022-06-21T23:19:53.231] [INFO] default - NODE_ENV=jwt
+[2022-06-21T23:19:53.238] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-21T23:19:53.245] [ERROR] default - Error: connect ECONNREFUSED 127.0.0.1:3306
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1187:16)
+    --------------------
+    at Protocol._enqueue (C:\Practice\Backend-Practice-2\app\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at Protocol.handshake (C:\Practice\Backend-Practice-2\app\node_modules\mysql\lib\protocol\Protocol.js:51:23)
+    at Connection.connect (C:\Practice\Backend-Practice-2\app\node_modules\mysql\lib\Connection.js:116:18)
+    at Object.<anonymous> (C:\Practice\Backend-Practice-2\app\config\database.js:11:4)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 3306,
+  fatal: true
+}
+[2022-06-22T11:09:17.897] [INFO] default - NODE_ENV=session
+[2022-06-22T11:09:17.905] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-22T11:09:17.912] [ERROR] default - Error: connect ECONNREFUSED 127.0.0.1:3306
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1187:16)
+    --------------------
+    at Protocol._enqueue (C:\Practice\Backend-Practice-2\app\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at Protocol.handshake (C:\Practice\Backend-Practice-2\app\node_modules\mysql\lib\protocol\Protocol.js:51:23)
+    at Connection.connect (C:\Practice\Backend-Practice-2\app\node_modules\mysql\lib\Connection.js:116:18)
+    at Object.<anonymous> (C:\Practice\Backend-Practice-2\app\config\database.js:11:4)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 3306,
+  fatal: true
+}
+[2022-06-22T11:09:30.116] [INFO] default - NODE_ENV=session
+[2022-06-22T11:09:30.125] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-22T11:09:30.146] [INFO] default - MYSQL connected..
+[2022-06-22T11:59:31.970] [INFO] default - NODE_ENV=session
+[2022-06-22T11:59:31.983] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-22T11:59:32.000] [INFO] default - MYSQL connected..
+[2022-06-22T12:50:41.691] [INFO] default - NODE_ENV=session
+[2022-06-22T12:50:41.697] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-22T12:50:41.707] [INFO] default - MYSQL connected..
+[2022-06-22T12:54:03.324] [INFO] default - NODE_ENV=session
+[2022-06-22T12:54:03.329] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-22T12:54:03.340] [INFO] default - MYSQL connected..
+[2022-06-22T12:56:59.788] [INFO] default - NODE_ENV=session
+[2022-06-22T12:56:59.799] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-22T12:56:59.812] [INFO] default - MYSQL connected..
+[2022-06-22T12:57:21.182] [INFO] default - NODE_ENV=session
+[2022-06-22T12:57:21.189] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-22T12:57:21.199] [INFO] default - MYSQL connected..
+[2022-06-22T12:57:52.224] [INFO] default - NODE_ENV=session
+[2022-06-22T12:57:52.233] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-22T12:57:52.243] [INFO] default - MYSQL connected..
+[2022-06-22T12:57:59.299] [INFO] default - NODE_ENV=session
+[2022-06-22T12:57:59.308] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-22T12:57:59.319] [INFO] default - MYSQL connected..
+[2022-06-22T12:58:17.390] [INFO] default - NODE_ENV=session
+[2022-06-22T12:58:17.396] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-22T12:58:17.407] [INFO] default - MYSQL connected..
+[2022-06-22T12:58:43.260] [INFO] default - NODE_ENV=session
+[2022-06-22T12:58:43.267] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-22T12:58:43.276] [INFO] default - MYSQL connected..
+[2022-06-22T12:59:56.894] [INFO] default - NODE_ENV=session
+[2022-06-22T12:59:56.903] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-22T12:59:56.914] [INFO] default - MYSQL connected..
+[2022-06-22T13:00:01.039] [ERROR] default - ::1 - - "POST /users/login HTTP/1.1" 400 51 "" "PostmanRuntime/7.29.0"
+[2022-06-22T13:13:54.693] [INFO] default - NODE_ENV=session
+[2022-06-22T13:13:54.702] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-22T13:13:54.713] [INFO] default - MYSQL connected..
+[2022-06-22T13:14:12.763] [INFO] default - NODE_ENV=session
+[2022-06-22T13:14:12.770] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-22T13:14:12.781] [INFO] default - MYSQL connected..
+[2022-06-22T13:14:20.601] [INFO] default - NODE_ENV=session
+[2022-06-22T13:14:20.608] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-22T13:14:20.617] [INFO] default - MYSQL connected..
+[2022-06-22T13:17:06.841] [INFO] default - NODE_ENV=session
+[2022-06-22T13:17:06.848] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-22T13:17:06.857] [INFO] default - MYSQL connected..
+[2022-06-22T13:17:10.062] [ERROR] default - ::1 - - "POST /users/login HTTP/1.1" 400 51 "" "PostmanRuntime/7.29.0"
+[2022-06-22T13:18:21.913] [INFO] default - NODE_ENV=session
+[2022-06-22T13:18:21.920] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-22T13:18:21.929] [INFO] default - MYSQL connected..
+[2022-06-22T13:18:44.145] [INFO] default - NODE_ENV=session
+[2022-06-22T13:18:44.153] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-22T13:18:44.163] [INFO] default - MYSQL connected..
+[2022-06-22T13:18:47.723] [ERROR] default - ::1 - - "POST /users/login HTTP/1.1" 400 51 "" "PostmanRuntime/7.29.0"
+[2022-06-22T13:19:23.196] [INFO] default - NODE_ENV=session
+[2022-06-22T13:19:23.205] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-22T13:19:23.216] [INFO] default - MYSQL connected..
+[2022-06-22T13:19:28.776] [ERROR] default - ::1 - - "POST /users/login HTTP/1.1" 400 51 "" "PostmanRuntime/7.29.0"
+[2022-06-22T13:20:24.286] [INFO] default - NODE_ENV=session
+[2022-06-22T13:20:24.294] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-22T13:20:24.303] [INFO] default - MYSQL connected..
+[2022-06-22T13:20:31.721] [INFO] default - NODE_ENV=session
+[2022-06-22T13:20:31.729] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-22T13:20:31.741] [INFO] default - MYSQL connected..
+[2022-06-22T13:20:59.863] [INFO] default - NODE_ENV=session
+[2022-06-22T13:20:59.870] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-22T13:20:59.879] [INFO] default - MYSQL connected..
+[2022-06-22T13:21:08.604] [ERROR] default - ::1 - - "POST /users/login HTTP/1.1" 400 51 "" "PostmanRuntime/7.29.0"
+[2022-06-22T13:22:19.470] [INFO] default - NODE_ENV=session
+[2022-06-22T13:22:19.479] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-22T13:22:19.489] [INFO] default - MYSQL connected..
+[2022-06-22T13:22:27.734] [INFO] default - NODE_ENV=session
+[2022-06-22T13:22:27.741] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-22T13:22:27.755] [INFO] default - MYSQL connected..
+[2022-06-22T13:22:36.187] [INFO] default - NODE_ENV=session
+[2022-06-22T13:22:36.194] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-22T13:22:36.204] [INFO] default - MYSQL connected..
+[2022-06-22T13:23:14.370] [INFO] default - NODE_ENV=session
+[2022-06-22T13:23:14.378] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-22T13:23:14.389] [INFO] default - MYSQL connected..
+[2022-06-22T13:23:41.458] [INFO] default - ::1 - - "POST /users/register HTTP/1.1" 201 29 "" "PostmanRuntime/7.29.0"
+[2022-06-22T13:24:10.470] [ERROR] default - ::1 - - "POST /users/register HTTP/1.1" 409 53 "" "PostmanRuntime/7.29.0"
+[2022-06-22T13:24:54.762] [ERROR] default - ::1 - - "POST /users/register HTTP/1.1" 409 53 "" "PostmanRuntime/7.29.0"
+[2022-06-22T13:25:00.555] [ERROR] default - ::1 - - "POST /users/register HTTP/1.1" 409 53 "" "PostmanRuntime/7.29.0"
+[2022-06-22T13:26:18.285] [ERROR] default - ::1 - - "POST /users/register HTTP/1.1" 400 55 "" "PostmanRuntime/7.29.0"
+[2022-06-22T13:26:47.100] [INFO] default - NODE_ENV=session
+[2022-06-22T13:26:47.107] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-22T13:26:47.116] [INFO] default - MYSQL connected..
+[2022-06-22T13:28:05.701] [INFO] default - NODE_ENV=session
+[2022-06-22T13:28:05.708] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-22T13:28:05.719] [INFO] default - MYSQL connected..
+[2022-06-22T13:28:14.464] [INFO] default - NODE_ENV=session
+[2022-06-22T13:28:14.471] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-22T13:28:14.480] [INFO] default - MYSQL connected..
+[2022-06-22T13:29:28.038] [INFO] default - NODE_ENV=session
+[2022-06-22T13:29:28.046] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-22T13:29:28.056] [INFO] default - MYSQL connected..
+[2022-06-22T13:31:54.857] [INFO] default - NODE_ENV=jwt
+[2022-06-22T13:31:54.863] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-22T13:31:54.875] [INFO] default - MYSQL connected..
+[2022-06-22T13:32:04.845] [INFO] default - ::1 - - "POST /users/login HTTP/1.1" 200 576 "" "PostmanRuntime/7.29.0"
+[2022-06-22T13:34:52.887] [INFO] default - NODE_ENV=jwt
+[2022-06-22T13:34:52.898] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-22T13:34:52.912] [INFO] default - MYSQL connected..
+[2022-06-22T13:37:01.104] [INFO] default - NODE_ENV=jwt
+[2022-06-22T13:37:01.110] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-22T13:37:01.121] [INFO] default - MYSQL connected..
+[2022-06-22T13:37:02.979] [INFO] default - NODE_ENV=jwt
+[2022-06-22T13:37:02.985] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-22T13:37:02.996] [INFO] default - MYSQL connected..
+[2022-06-22T13:44:47.133] [INFO] default - NODE_ENV=jwt
+[2022-06-22T13:44:47.139] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-22T13:44:47.150] [INFO] default - MYSQL connected..
+[2022-06-22T13:45:59.483] [INFO] default - NODE_ENV=jwt
+[2022-06-22T13:45:59.489] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-22T13:45:59.498] [INFO] default - MYSQL connected..
+[2022-06-22T13:46:11.164] [ERROR] default - ::1 - - "POST /users/register HTTP/1.1" 500 1336 "" "PostmanRuntime/7.29.0"
+[2022-06-22T13:46:35.715] [INFO] default - NODE_ENV=jwt
+[2022-06-22T13:46:35.721] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-22T13:46:35.730] [INFO] default - MYSQL connected..
+[2022-06-22T13:47:08.525] [INFO] default - NODE_ENV=jwt
+[2022-06-22T13:47:08.531] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-22T13:47:08.540] [INFO] default - MYSQL connected..
+[2022-06-22T13:47:22.424] [INFO] default - NODE_ENV=jwt
+[2022-06-22T13:47:22.430] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-22T13:47:22.440] [INFO] default - MYSQL connected..
+[2022-06-22T13:48:02.555] [INFO] default - NODE_ENV=jwt
+[2022-06-22T13:48:02.560] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-22T13:48:02.571] [INFO] default - MYSQL connected..
+[2022-06-22T13:48:14.754] [INFO] default - NODE_ENV=jwt
+[2022-06-22T13:48:14.761] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-22T13:48:14.772] [INFO] default - MYSQL connected..
+[2022-06-22T13:48:49.625] [INFO] default - NODE_ENV=jwt
+[2022-06-22T13:48:49.630] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-22T13:48:49.643] [INFO] default - MYSQL connected..
+[2022-06-22T14:04:43.834] [INFO] default - NODE_ENV=jwt
+[2022-06-22T14:04:43.843] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-22T14:04:43.858] [INFO] default - MYSQL connected..
+[2022-06-22T14:06:50.671] [INFO] default - ::1 - - "POST /users/login HTTP/1.1" 200 576 "" "PostmanRuntime/7.29.0"
+[2022-06-22T14:07:53.559] [INFO] default - NODE_ENV=jwt
+[2022-06-22T14:07:53.564] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-22T14:07:53.576] [INFO] default - MYSQL connected..
+[2022-06-22T14:09:42.625] [INFO] default - ::1 - - "POST /users/refreshToken HTTP/1.1" 200 218 "" "PostmanRuntime/7.29.0"
+[2022-06-22T14:10:47.915] [INFO] default - NODE_ENV=jwt
+[2022-06-22T14:10:47.923] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-22T14:10:47.940] [INFO] default - MYSQL connected..
+[2022-06-22T14:12:03.609] [INFO] default - NODE_ENV=jwt
+[2022-06-22T14:12:03.616] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-22T14:12:03.626] [INFO] default - MYSQL connected..
+[2022-06-22T14:12:16.941] [INFO] default - NODE_ENV=jwt
+[2022-06-22T14:12:16.946] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-22T14:12:16.957] [INFO] default - MYSQL connected..
+[2022-06-22T14:12:59.145] [INFO] default - NODE_ENV=jwt
+[2022-06-22T14:12:59.151] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-22T14:12:59.164] [INFO] default - MYSQL connected..
+[2022-06-22T14:13:03.153] [INFO] default - NODE_ENV=jwt
+[2022-06-22T14:13:03.161] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-22T14:13:03.169] [INFO] default - MYSQL connected..
+[2022-06-22T14:13:03.858] [INFO] default - NODE_ENV=jwt
+[2022-06-22T14:13:03.865] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-22T14:13:03.877] [INFO] default - MYSQL connected..
+[2022-06-22T14:13:21.138] [INFO] default - NODE_ENV=jwt
+[2022-06-22T14:13:21.144] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-22T14:13:21.154] [INFO] default - MYSQL connected..
+[2022-06-22T14:13:42.318] [INFO] default - NODE_ENV=jwt
+[2022-06-22T14:13:42.324] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-22T14:13:42.335] [INFO] default - MYSQL connected..
+[2022-06-22T14:13:46.175] [INFO] default - NODE_ENV=jwt
+[2022-06-22T14:13:46.182] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-22T14:13:46.192] [INFO] default - MYSQL connected..
+[2022-06-22T14:14:43.358] [INFO] default - NODE_ENV=jwt
+[2022-06-22T14:14:43.365] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-22T14:14:43.375] [INFO] default - MYSQL connected..
+[2022-06-22T14:15:14.801] [INFO] default - NODE_ENV=jwt
+[2022-06-22T14:15:14.807] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-22T14:15:14.816] [INFO] default - MYSQL connected..
+[2022-06-22T14:15:20.429] [INFO] default - NODE_ENV=jwt
+[2022-06-22T14:15:20.435] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-22T14:15:20.445] [INFO] default - MYSQL connected..
+[2022-06-22T14:15:38.266] [INFO] default - NODE_ENV=jwt
+[2022-06-22T14:15:38.274] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-22T14:15:38.287] [INFO] default - MYSQL connected..
+[2022-06-22T14:16:20.221] [INFO] default - NODE_ENV=jwt
+[2022-06-22T14:16:20.226] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-22T14:16:20.239] [INFO] default - MYSQL connected..
+[2022-06-22T14:16:56.952] [INFO] default - NODE_ENV=jwt
+[2022-06-22T14:16:56.960] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-22T14:16:56.975] [INFO] default - MYSQL connected..
+[2022-06-22T14:17:18.741] [INFO] default - NODE_ENV=jwt
+[2022-06-22T14:17:18.747] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-22T14:17:18.759] [INFO] default - MYSQL connected..
+[2022-06-22T14:17:50.899] [INFO] default - NODE_ENV=jwt
+[2022-06-22T14:17:50.904] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-22T14:17:50.915] [INFO] default - MYSQL connected..
+[2022-06-22T14:18:55.118] [INFO] default - NODE_ENV=jwt
+[2022-06-22T14:18:55.123] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-22T14:18:55.135] [INFO] default - MYSQL connected..
+[2022-06-22T14:19:52.763] [INFO] default - NODE_ENV=jwt
+[2022-06-22T14:19:52.769] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-22T14:19:52.780] [INFO] default - MYSQL connected..
+[2022-06-22T14:20:21.642] [INFO] default - NODE_ENV=jwt
+[2022-06-22T14:20:21.650] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-22T14:20:21.660] [INFO] default - MYSQL connected..
+[2022-06-22T14:21:10.176] [INFO] default - NODE_ENV=jwt
+[2022-06-22T14:21:10.183] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-22T14:21:10.195] [INFO] default - MYSQL connected..
+[2022-06-22T14:21:16.504] [INFO] default - NODE_ENV=jwt
+[2022-06-22T14:21:16.509] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-22T14:21:16.520] [INFO] default - MYSQL connected..
+[2022-06-22T14:21:23.183] [INFO] default - NODE_ENV=jwt
+[2022-06-22T14:21:23.189] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-22T14:21:23.197] [INFO] default - MYSQL connected..
+[2022-06-22T14:22:55.411] [INFO] default - ::1 - - "POST /users/login HTTP/1.1" 200 576 "" "PostmanRuntime/7.29.0"
+[2022-06-22T14:23:16.232] [INFO] default - ::1 - - "GET /posts/all HTTP/1.1" 200 241 "" "PostmanRuntime/7.29.0"
+[2022-06-22T14:24:15.894] [INFO] default - NODE_ENV=jwt
+[2022-06-22T14:24:15.899] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-22T14:24:15.911] [INFO] default - MYSQL connected..
+[2022-06-22T14:24:31.280] [INFO] default - ::1 - - "POST /users/login HTTP/1.1" 200 576 "" "PostmanRuntime/7.29.0"
+[2022-06-22T14:24:46.239] [ERROR] default - ::1 - - "GET /posts/view/d9f0df79c9cdcda2c11593287d34ee5f HTTP/1.1" 400 32 "" "PostmanRuntime/7.29.0"
+[2022-06-22T14:26:26.048] [INFO] default - NODE_ENV=jwt
+[2022-06-22T14:26:26.053] [INFO] default - APP LISTENING ON http://localhost:5000
+[2022-06-22T14:26:26.065] [INFO] default - MYSQL connected..
+[2022-06-22T14:26:33.032] [INFO] default - ::1 - - "POST /users/login HTTP/1.1" 200 576 "" "PostmanRuntime/7.29.0"
+[2022-06-22T14:26:59.004] [INFO] default - ::1 - - "POST /posts/create HTTP/1.1" 201 81 "" "PostmanRuntime/7.29.0"
+[2022-06-22T14:27:19.754] [INFO] default - ::1 - - "GET /posts/all HTTP/1.1" 200 452 "" "PostmanRuntime/7.29.0"
+[2022-06-22T14:27:57.744] [ERROR] default - ::1 - - "GET /posts/view/d9f0df79c9cdcda2c11593287d34ee5f HTTP/1.1" 403 33 "" "PostmanRuntime/7.29.0"
+[2022-06-22T14:28:24.037] [INFO] default - ::1 - - "GET /posts/view/d9f0df79c9cdcda2c11593287d34ee5f HTTP/1.1" 200 39 "" "PostmanRuntime/7.29.0"
+[2022-06-22T14:29:10.982] [INFO] default - ::1 - - "GET /posts/view/user/1 HTTP/1.1" 200 432 "" "PostmanRuntime/7.29.0"
